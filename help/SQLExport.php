@@ -12,10 +12,11 @@
     <?php include("../navigation.php"); ?>
     <a href="Contents.php">Back to contents</a>
 
-
-    <h1>Export to an External SQL Database</h1>JabRef is capable of 
-    exporting the contents of the BibTeX database, along with groups 
-    information, to an external MySQL database.
+    <h1>Export to an External SQL Database</h1>
+    
+    <p> JabRef is capable of 
+        exporting the contents of the BibTeX database, along with groups 
+    information, to an external MySQL database.</p>
 
     <h2>Setup</h2>
     <ol>
@@ -30,13 +31,13 @@
     </ol>
 
 		<p>
-		JabRef will then connect to the specified database, drop the existing tables, create new 
+		JabRef will then connect to the specified database, <b><em>drop the existing tables</em></b>, create new 
 		tables, and populate those tables with entries and groups information.  Note that you will
 		not be prompted for the connection information on subsequent exports.  If you would like to 
 		export to a different database, you can change the connection information by choosing <b>File-&gt;
-		Connect to external SQL database</b> (or choosing the associated toolbar button), and then 
+		Connect to external SQL database</b> (or by clicking the associated toolbar button), and then 
 		performing an export.
-    </p>
+    </p> 
 
     <?php include("../footer.php"); ?>
   </div>

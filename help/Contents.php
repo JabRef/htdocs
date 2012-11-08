@@ -36,6 +36,7 @@
       <li><a href="OwnerHelp.php">The 'owner' field</a></li>
       <li><a href="ContentSelectorHelp.php">Field content selector</a></li>
       <li><a href="JournalAbbreviations.php">Journal abbreviations</a></li>
+      <li><a href="SpecialFieldsHelp.php">Special Fields</a></li>
     </ul>
     
     <h2>Finding and sorting entries</h2>
@@ -66,6 +67,7 @@
       <li><a href="ACMPortalHelp.php">Fetching entries from <em>ACM</em> Portal</a></li>
       <li><a href="CiteSeerHelp.php">Fetching entries from <em>CiteSeerX</em></a></li>
       <li><a href="IEEEXploreHelp.php">Fetching entries from <em>IEEExplore</em></a></li>
+      <li><a href="ISBNtoBibTeXHelp.php">Fetching entries using the <em>ISBN to BibTeX Converter</em></a>
       <li><a href="MedlineHelp.php">Fetching entries from <em>Medline</em></a></li>
       <li><a href="JSTOR.php"><em>JStor</em> search</a></li>
       <li><a href="ScienceDirect.php"><em>ScienceDirect</em> search</a></li>

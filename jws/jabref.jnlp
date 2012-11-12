@@ -30,8 +30,8 @@
       <all-permissions/>
   </security>
    <resources>
-      <j2se version="1.5+" href="http://java.sun.com/products/autodl/j2se"/>
-      <j2se version="1.5+"/>
+      <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+      <j2se version="1.6+"/>
       <jar href="JabRef-2.8.1.jar" main="true" download="eager"/>
    </resources>
    <application-desc/>

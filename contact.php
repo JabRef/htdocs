@@ -31,6 +31,7 @@
 	<span class="developer">Michel Baylac <img src="images/stock_person.png" alt="Developer" title="" /></span>
 	<span class="developer">Kolja Brix <img src="images/stock_person.png" alt="Developer" title="" /></span>
 	<span class="developer">Guillaume Gardey <img src="images/stock_person.png" alt="Developer" title="Webdesign and HTML export" /></span>
+	<span class="developer">Oscar Gustafsson <img src="images/stock_person.png" alt="Developer" title="" /></span>
 	<span class="developer">Cyrille d'Haese <img src="images/stock_person.png" alt="Developer" title="" /></span>
 	<span class="developer">Oliver Kopp <img src="images/stock_person.png" alt="Developer" title="" /></span>
 	<span class="developer">S M Mahbub Murshed <img src="images/stock_person.png" alt="Developer" title="" /></span>

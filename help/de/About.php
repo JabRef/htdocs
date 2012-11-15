@@ -32,6 +32,7 @@
         Kolja Brix,
         Fr&eacute;d&eacute;ric Darboux,
         Guillaume Gardey,
+        Oscar Gustafsson,
         Cyrille d'Haese,
         Oliver Kopp,
         S. M. Mahbub Murshed,

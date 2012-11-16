@@ -33,7 +33,7 @@
 
     <p>The option to download BibTeX citations directly from IEEEXplore is not working yet.</p>
 
-    <p>Please email Aaron Chen <b>nextAaron@gmail.com</b> for any suggestions.</p>
+    <p>Please email Oscar Gustafsson <b>ogib73@gmail.com</b> or Aaron Chen <b>nextAaron@gmail.com</b> for any suggestions.</p>
   <?php include("../footer.php"); ?>
   </div>
 

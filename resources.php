@@ -41,6 +41,7 @@
         <li><a href="#Marks_filters">Mark Schenk's HTML export filters</a></li>
         <li><a href="#Martens_filters">Marten Kooiker's RTF export filters</a></li>
         <li><a href="#Edward_Elgar_filters">Edward Elgar export filters</a></li>
+        <li><a href="#IJoGGC">International Journal of Greenhouse Gas export filter</a></li>
         <li><a href="#RIS_export">RIS export format</a></li>
         <li><a href="#Chicago_Manual">Chicago Manual of Style export filters</a></li>
         <li><a href="#Turabian">Turabian export filters</a></li>
@@ -225,6 +226,22 @@
       The export filter requires definition of two name formatters - please read the included README file.</p>
       <p><a href="exportfilters/Edward_Elgar_export_filters_v1.0.zip">Download Edward Elgar export filters</a></p>
 
+      <h3 id="IJoGGC">International Journal of Greenhouse Gas (IJoGGC) export filters</h3>
+      <p>This filter is a modified version of Edwared Elgar's export filters.
+      It formats the exported .rtf file into the format required by lots of Elsevier Journals.
+      You just have to follow the next few steps:</p>
+      <ul>
+      <li>Download <a href="exportfilters/Exportfilter_IJoGGC_v1.0.zip">Exportfilter_IJoGGC_v1.0.zip</a>.</li>
+      <li>JabRef > Options > Manage custom exports > Add new</li>
+      <li>Export name: its up to you (for example &ldquo;IJoGGC&rdquo;)</li>
+      <li>Main layout file: IJoGGC.layout (Browse to your folder, where you safed the layout files)</li>
+      <li>File extension: .rtf</li>
+      <li>OK</li>
+      </ul>
+      <p>
+      If you now you go to File > Export, Jabref will open a window where you can choose different types of exportfilters below.
+      Select Files of type: IJoGGC(*.rtf).
+      </p>
 
       <h3 id="RIS_export">RIS export format</h3>
       <p><em>by Morten O. Alver</em></p>

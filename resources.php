@@ -51,6 +51,7 @@
         <li><a href="journals/journal_abbreviations_general.txt">General list</a></li>
         <li><a href="https://github.com/timstaley/jabref-astro-abbreviations/blob/master/MNRAS_abbreviations.txt">Astronomy journals abbreviation list</a>by Tim Staley. <i>Note: Please contribute using <a href="https://github.com/timstaley/jabref-astro-abbreviations">github</a>.</i></li>
         <li><a href="journals/journal_abbreviations_entrez.txt">Entrez journals abbreviation list</a> by Emmanuel Charpentier. <i>Note: provides Medline (dotless) abbr. only.</i></li>
+        <li><a href="journals/journal_abbreviations_geology_physics.txt">Geology and Physics abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/164/">anoonymous user</a>.</li>
         <li><a href="journals/journal_abbreviations_medicus.txt">Index Medicus abbreviation list</a> by Guy Tsafnat.
         <i>Note: provides Medline (dotless) abbr. only.</i></li>
         <li><a href="http://people.su.se/~alau4517/jabref.wos.txt">ISI Web of Science journal list</a> by Alistair Auffret.</li>

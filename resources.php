@@ -215,7 +215,7 @@
       <h3 id="Martens_filters">Marten Kooiker's RTF export filters</h3>
       <p>Marten Kooiker has put together a number of export filters outputting
       RTF references formatted for specific journals.</p>
-      <p><a href="exportfilters/Marten_Kooiker_export_filters_v1.0.zip">Download Marten Kooiker's RTF export filters</a></p>
+      <p><a href="exportfilters/Marten_Kooiker_export_filters_v1.0a.zip">Download Marten Kooiker's RTF export filters (v1.0a)</a></p>
 
 
       <h3 id="Edward_Elgar_filters">Edward Elgar export filters</h3>

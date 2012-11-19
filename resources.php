@@ -52,6 +52,7 @@
         <li><a href="journals/journal_abbreviations_general.txt">General list</a></li>
         <li><a href="journals/journal_abbreviations_ams.txt">American Mathematical Society journals abbreviation list</a> by Tzu-Hao Wei.</li>
         <li><a href="https://github.com/timstaley/jabref-astro-abbreviations/blob/master/MNRAS_abbreviations.txt">Astronomy journals abbreviation list</a> by Tim Staley. <i>Note: Please contribute using <a href="https://github.com/timstaley/jabref-astro-abbreviations">github</a>.</i></li>
+        <li><a href="journals/journal_abbreviations_aea.txt">Economics journal abreviations as posted on the AEA website</a> by Jeff Arnold.</li>
         <li><a href="journals/journal_abbreviations_entrez.txt">Entrez journals abbreviation list</a> by Emmanuel Charpentier. <i>Note: provides Medline (dotless) abbr. only.</i></li>
         <li><a href="journals/journal_abbreviations_geology_physics.txt">Geology and Physics abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/164/">anonymous user</a>.</li>
         <li><a href="journals/journal_abbreviations_ieee.txt">IEEE abbreviation list</a> by Thomas Arildsen.</li>

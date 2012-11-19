@@ -35,9 +35,8 @@
       <p><code>@Manual{JabRef_software,<br/>
 &nbsp;  title = {JabRef},<br/>
 &nbsp;  author = {{JabRef Development Team}},<br/>
-&nbsp;  organization = {JabRef Development Team},<br/>
-&nbsp;  year = {2010},<br/>
-&nbsp;  url = {http://jabref.sourceforge.net},<br/>
+&nbsp;  year = {<?php echo date("Y"); ?>},<br/>
+&nbsp;  url = {http://jabref.sf.net},<br/>
  }</code></p>
       <p class="question">Q: BibTeX converts uppercase characters to lowercase in my title field. I know this can be prevented by wrapping uppercase letters in braces, e.g. &quot;{T}he life cycle of {A}tlantic salmon&quot;, but this is too much work. Can <acronym>JabRef</acronym> help?</p>
       <p class="answer">A: <acronym>JabRef</acronym> has a setting that will automatically wrap all capital letters for certain fields in { } - this will make sure they are preserved in the LaTeX output. Under <b>Options -> Preferences -> General -> File -> "Store the following fields with braces around capital letters"</b>, make sure the title field is included. To do this for several fields, write e.g. &quot;title;abstract&quot; (without the quotes). This setting automatically adds braces when saving the bib file, but you won't see the braces within <acronym>JabRef</acronym>.</p>

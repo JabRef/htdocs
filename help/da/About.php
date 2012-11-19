@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef version 2.9b</title>
+  <title>JabRef version 2.9b2</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -15,10 +15,10 @@
     <?php include("../../navigation.php"); ?>
     <a href="Contents.php">Back to contents</a>
 
-        <h1>JabRef version 2.9b</h1>
+        <h1>JabRef version 2.9b2</h1>
 
         <div id="logo">
-        <img src="/images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
+        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
         </div>
 
         <p>JabRef kan frit distribueres under betingelserne i
@@ -101,7 +101,7 @@
 
         <h2>Tredjepartssoftware anvendt:</h2>
 
-        <p>JabRef bruger JGoodies Looks 2.0.4 og JGoodies Forms 1.0.5,
+        <p>JabRef bruger JGoodies Looks og JGoodies Forms,
         distribueret af JGoodies
         (<code>http://www.jgoodies.com</code>) under betingelserne i
         BSD License (se
@@ -128,8 +128,8 @@
         (<code>http://publicobject.com/glazedlists</code>), som
         distribueres under Lesser General Public License.</p>
 
-        <p>JabRef benytter ogs&aring; tr&aring;dbiblioteket Spin
-        1.3.1, som distribueres under betingelserne i Lesser General
+        <p>JabRef benytter ogs&aring; tr&aring;dbiblioteket Spin, 
+            som distribueres under betingelserne i Lesser General
         Public License.</p>
 
         <p>Der er brugt visse GUI-komponenter fra Microba-biblioteket,

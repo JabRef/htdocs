@@ -66,6 +66,7 @@
       <li><a href="OpenOfficeIntegration.php">Using JabRef with OpenOffice.org or LibreOffice</a></li>
       <li><a href="ACMPortalHelp.php">Fetching entries from <em>ACM</em> Portal</a></li>
       <li><a href="CiteSeerHelp.php">Fetching entries from <em>CiteSeerX</em></a></li>
+      <li><a href="DiVAtoBibTeXHelp.php">Fetching entries from <em>DiVA</em></a></li>
       <li><a href="DOItoBibTeXHelp.php">Fetching entries using the <em>DOI to BibTeX Converter</em></a></li>
       <li><a href="GoogleScholarHelp.php">Fetching entries from <em>Google Scholar</em></a></li>
       <li><a href="IEEEXploreHelp.php">Fetching entries from <em>IEEExplore</em></a></li>

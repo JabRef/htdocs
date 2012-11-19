@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef versi 2.9b</title>
+  <title>JabRef versi 2.9b2</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -15,10 +15,10 @@
     <?php include("../../navigation.php"); ?>
     <a href="Contents.php">Kembali ke Daftar Isi</a>
 
-        <h1>JabRef versi 2.9b</h1>
+        <h1>JabRef versi 2.9b2</h1>
 
         <div id="logo">
-        <img src="/images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
+        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
         </div>
 
         <p>JabRef dapat disebarkan tanpa bayar mengikut syarat dari
@@ -103,7 +103,7 @@
         <h2>Program tambahan yang digunakan:</h2>
 
         <p>JabRef menggunakan JGoodies
-        Looks 2.0.4 dan JGoodies Forms 1.0.5, yang disebarkan oleh
+        Looks dan JGoodies Forms, yang disebarkan oleh
         JGoodies (<code>http://www.jgoodies.com</code>) mengikuti syarat dari Lisensi (Lihat
         <code>http://www.opensource.org/licenses/bsd-license.html</code>
         untuk perincian lanjut).</p>
@@ -129,7 +129,7 @@
         (<code>http://publicobject.com/glazedlists</code>), yang
         disebarkan mengikut Lisensi Lesser General Public.</p>
 
-        <p>JabRef juga menggunakan threading library Spin 1.3.1, yang
+        <p>JabRef juga menggunakan threading library Spin, yang
         disebarkan mengikut syarat Lisensi Lesser General Public
         .</p>
 

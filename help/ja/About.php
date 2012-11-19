@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef 第 2.9b 版</title>
+  <title>JabRef 第 2.9b2 版</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -15,10 +15,10 @@
     <?php include("../../navigation.php"); ?>
     <a href="Contents.php">目次に戻る</a>
 
-        <h1>JabRef 第 2.9b 版</h1>
+        <h1>JabRef 第 2.9b2 版</h1>
 
         <div id="logo">
-        <img src="/images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
+        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
         </div>
 
         <p>JabRefは、GNU <a href="License.php">General Public License</a>, version 2の下で自由に配布可能です。</p>
@@ -101,7 +101,7 @@
 
         <h2>使用しているサードパーティ・ソフトウェア:</h2>
 
-        <p>JabRefは、JGoodies (<code>http://www.jgoodies.com</code>) がBSDライセンス (詳細については<code>http://www.opensource.org/licenses/bsd-license.html</code>を参照) の下で配布しているJGoodies Looks 2.0.4およびJGoodies Forms 1.0.5を使用しています。</p>
+        <p>JabRefは、JGoodies (<code>http://www.jgoodies.com</code>) がBSDライセンス (詳細については<code>http://www.opensource.org/licenses/bsd-license.html</code>を参照) の下で配布しているJGoodies Looks およびJGoodies Forms を使用しています。</p>
 
         <p>また、<a href="../jgoodies.php">これらの条件</a>で配布されているKarsten Lentzschによる二つのクラス (SimpleInternalFrameおよびUIFSplitPane) も含まれています。</p>
 
@@ -111,7 +111,7 @@
 
         <p>JabRefは、表の表示とフィルタリングにGlazed Listsライブラリ (<code>http://publicobject.com/glazedlists</code>) を使用しています。これはLesser General Public Licenseの下で配布されています。</p>
 
-        <p>JabRefは、スレッディングライブラリSpin 1.3.1も使用しており、これはLesser General Public Licenseの下で配布されています。</p>
+        <p>JabRefは、スレッディングライブラリSpin も使用しており、これはLesser General Public Licenseの下で配布されています。</p>
 
         <p>Microbaライブラリ由来のいくつかのGUIコンポーネントが使用されており、これはBSDスタイルライセンスの下でライセンスされています。詳しい情報については<code>http://sourceforge.net/projects/microba/</code>をご覧ください。</p>
 

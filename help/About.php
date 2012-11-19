@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef version 2.9b</title>
+  <title>JabRef version 2.9b2</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -15,10 +15,10 @@
     <?php include("../navigation.php"); ?>
     <a href="Contents.php">Back to contents</a>
 
-        <h1>JabRef version 2.9b</h1>
+        <h1>JabRef version 2.9b2</h1>
 
         <div id="logo">
-        <img src="/images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
+        <img src="../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
         </div>
 
 	<p>JabRef is free software: you can redistribute it and/or modify it
@@ -104,7 +104,7 @@
         <h2>Third-party software used:</h2>
 
         <p>JabRef uses JGoodies
-        Looks 2.0.4 and JGoodies Forms 1.0.5, distributed by
+        Looks and JGoodies Forms, distributed by
         JGoodies (<code>http://www.jgoodies.com</code>) under the
         terms of the BSD License (see
         <code>http://www.opensource.org/licenses/bsd-license.html</code>
@@ -131,7 +131,7 @@
         (<code>http://publicobject.com/glazedlists</code>), which
         is distributed under the Lesser General Public License.</p>
 
-        <p>JabRef also uses the threading library Spin 1.3.1, which
+        <p>JabRef also uses the threading library Spin, which
         is distributed under the terms of the Lesser General Public
         License.</p>
 
@@ -148,6 +148,11 @@
         <p>JabRef uses the FontBox, JempBox, and PDFBox libraries for PDF
         handling, which are distributed under the Apache License. See 
         <code>http://pdfbox.apache.org</code> for more information.</p>
+        
+        <p>Under Ubuntu, JabRef uses Java Ayatana to add support for Unity Global
+            menu integration, which is licensed under the MIT License.
+            See <code>http://code.google.com/p/java-swing-ayatana/</code>
+         for more information.
   <?php include("../footer.php"); ?>
   </div>
 

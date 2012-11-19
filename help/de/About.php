@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef Version 2.9b</title>
+  <title>JabRef Version 2.9b2</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -15,10 +15,10 @@
     <?php include("../../navigation.php"); ?>
     <a href="Contents.php">Zur&uuml;ck zum Inhaltsverzeichnis</a>
 
-        <h1>JabRef Version 2.9b</h1>
+        <h1>JabRef Version 2.9b2</h1>
 
         <div id="logo">
-        <img src="/images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
+        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
         </div>
 
         <p>JabRef ist frei verf&uuml;gbar unter den Bedingungen der
@@ -99,7 +99,7 @@
         <h2>Benutzte Fremdsoftware:</h2>
 
         <p>JabRef benutzt JGoodies
-        Looks 2.0.4 und JGoodiesForms 1.0.5, das von JGoodies
+        Looks und JGoodies Forms, das von JGoodies
         (<code>http://www.jgoodies.com</code>) unter den
         Bedingungen der BSD-Lizenz vertrieben wird (siehe
         <code>http://www.opensource.org/licenses/bsd-license.html</code>
@@ -127,7 +127,7 @@
         vertrieben wird.</p>
 
         <p>JabRef benutzt dar&uuml;ber hinaus die "threading
-        library" Spin 1.3.1, die ebenfalls unter den Bedingungen
+        library" Spin, die ebenfalls unter den Bedingungen
         der Lesser General Public License vertrieben wird.</p>
 
         <p>F&uuml;r die einfache Auswahl und den Umgang mit

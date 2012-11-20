@@ -333,7 +333,7 @@
       smaller lists, so if you have set up a representative list for your
       own subject area, we would appreciate it if you share your list by
       opening a new entry in our 
-      <a href="http://sourceforge.net/tracker/?group_id=92314&amp;atid=600308">Patches</a>
+      <a href="http://sourceforge.net/p/jabref/patches/">Patches</a>
       section on SourceForge. You can either add your list as an attachment to the 
       patch entry, or keep the list on you own home page and link to it.
       We will then add your list to this page.</p>

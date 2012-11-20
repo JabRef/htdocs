@@ -37,7 +37,7 @@
 
       <p>Furthermore, for a translation to be available within <acronym>JabRef</acronym>, a corresponding line must be added in the Java class GUIGlobals (found in the directory src/java/net/sf/jabref/GUIGlobals.java in the <acronym>JabRef</acronym> source code tree). The line is inserted in the static {} section where the map LANGUAGES is populated. The code must of course be recompiled after this modification.</p>
 
-      <p>If you are interested in translating <acronym>JabRef</acronym> or if you have suggestions or questions, please contact us using the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=jabref-users">jabref-users mailing list</a>.</p>
+      <p>If you are interested in translating <acronym>JabRef</acronym> or if you have suggestions or questions, please contact us using the <a href="https://lists.sourceforge.net/lists/listinfo/jabref-users">jabref-users mailing list</a>.</p>
 
       <h3 id="translation">List of translation files</h3>
 
@@ -55,12 +55,12 @@
 
       <p>Note that each space character is replaced by an underscore, both in the English and the translated version.</p>
 
-      <p>Some entries contain "variables" that are inserted at runtime by <acronym>JabRef</acronym> - this can for instance be a file name or a file type name:</p>
+      <p>Some entries contain &ldquo;variables&rdquo; that are inserted at runtime by <acronym>JabRef</acronym> - this can for instance be a file name or a file type name:</p>
       <pre><code>Synchronizing_%0_links...=Synchronisiere_%0-Links...</code></pre>
 
       <p>A variable is denoted by %0, %1, %2 etc. In such entries, simply repeat the same notation in the translated version.</p>
 
-      <p>As we can see, there are several "special" characters: the percent sign and the equals sign, along with the colon character. If these characters are to be part of the actual text in an entry, they must be escaped in the English version, as with the colon in the following example:</p>
+      <p>As we can see, there are several &ldquo;special&rdquo; characters: the percent sign and the equals sign, along with the colon character. If these characters are to be part of the actual text in an entry, they must be escaped in the English version, as with the colon in the following example:</p>
       <pre><code>Error_writing_XMP_to_file\:_%0=Fehler_beim_Schreiben_von_XMP_in_die_Datei:_%0</code></pre>
 
       <h3 id="Popeye">Using Popeye for editing translations</h3>
@@ -71,11 +71,11 @@
 
       <p>Before deciding to become a regular translator for <acronym>JabRef</acronym>, consider that the application is evolving constantly, meaning that translators need to keep updating their translations! We are interested in supporting as many languages as possible, but we don't want incomplete translations.</p>
 
-      <p>If you are still interested, you will need to contact the project manager - preferably through the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=jabref-users">jabref-users mailing list</a>. Then you can send over your initial versions of the translation files, and your language can be added to the current development version of <acronym>JabRef</acronym>. You will be made a member of the project group, and given the necessary access to our source control tree. This requires you to have a user account at SourceForge. This means that you will need to learn the basics of using the git version control system. The <a href="http://sourceforge.net/scm/?type=git&group_id=92314">JabRef's git repository page at SourceForge</a> and the linked documentation are places to start learning this, although there are several other tutorials available on the web.</p>
+      <p>If you are still interested, you will need to contact the project manager - preferably through the <a href="https://lists.sourceforge.net/lists/listinfo/jabref-users">jabref-users mailing list</a>. Then you can send over your initial versions of the translation files, and your language can be added to the current development version of <acronym>JabRef</acronym>. You will be made a member of the project group, and given the necessary access to our source control tree. This requires you to have a user account at SourceForge. This means that you will need to learn the basics of using the git version control system. The <a href="http://sourceforge.net/p/jabref/code/">JabRef's git repository page at SourceForge</a> and the <a href="http://sourceforge.net/apps/trac/sourceforge/wiki/Git">sourceforge git documentation</a> are places to start learning this, although there are several other tutorials available on the web.</p>
 
       <p>Using git you will be able to keep your local files updated, and you need to translate new text entries as they are added to your language's files.</p>
 
-      <p>To test your translation you must be able to compile the source tree after making your additions. This requires you to install the Java Development Kit 6.0 or newer, and <a href="http://ant.apache.org/bindownload.cgi">Apache Ant</a>. Building <acronym>JabRef</acronym> with Ant is quite easy - simply enter the root directory of the source tree with a terminal or a cmd shell (under Windows), and run the command "ant". If everything is working as it should, the <acronym>JabRef</acronym> jar file should be built in the build/lib directory below the root directory. The jar file is executable either by double-clicking or by running the command</p>
+      <p>To test your translation you must be able to compile the source tree after making your additions. This requires you to install the Java Development Kit 6.0 or newer, and <a href="http://ant.apache.org/bindownload.cgi">Apache Ant</a>. Building <acronym>JabRef</acronym> with Ant is quite easy - simply enter the root directory of the source tree with a terminal or a cmd shell (under Windows), and run the command &ldquo;ant&rdquo;. If everything is working as it should, the <acronym>JabRef</acronym> jar file should be built in the build/lib directory below the root directory. The jar file is executable either by double-clicking or by running the command</p>
       <pre><code>java -jar build/lib/JabRef-X.jar</code></pre>
       <p>where &ldquo;X&rdquo; is the current version number in the source tree.</p>
 

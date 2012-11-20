@@ -93,25 +93,26 @@
 
       <h3 id="mailinglist">Mailing list</h3>
       <p>For general questions about <acronym>JabRef</acronym>, you can use the
-      <a href="https://sourceforge.net/mail/?group_id=92314"><acronym>JabRef</acronym> mailing lists</a>.</p>
+      <a href="https://lists.sourceforge.net/lists/listinfo/jabref-users"><acronym>JabRef</acronym> user mailing list</a>.
+      An overview on all available mailinglists is provided at our <a href="http://sourceforge.net/p/jabref/mailman/">mailing list page</a>.</p>
 
       <h3 id="git">Git access</h3>
       <p>To browse or check out the <acronym>JabRef</acronym> source code from Git,
       take a look at our
-      <a href="https://sourceforge.net/scm/?type=git&amp;group_id=92314">Git page</a>.</p>
+      <a href="sourceforge.net/p/jabref/code/">Git page</a>.</p>
 
       <h3 id="bugtracker">Bug reports</h3>
       <p>To register bug reports, go to the
-      <a href="http://sourceforge.net/tracker/?atid=600306&amp;group_id=92314">Bug tracker</a>.</p>
+      <a href="http://sourceforge.net/p/jabref/bugs/">Bug tracker</a>.</p>
 
       <h3 id="featurerequest">Feature request</h3>
       <p>To register feature requests, go to the
-      <a href="https://sourceforge.net/tracker/?group_id=92314&amp;atid=600309">Feature request page</a>.</p>
+      <a href="http://sourceforge.net/p/jabref/feature-requests/">Feature request page</a>.</p>
 
       <h3 id="patches">Patches</h3>
       <p>If you have developed an improvement or bugfix
       for <acronym>JabRef</acronym>, you can post it in the
-      <a href="https://sourceforge.net/tracker/?group_id=92314&amp;atid=600308">Patches page</a>
+      <a href="http://sourceforge.net/p/jabref/patches/">Patches page</a>
       in order to share it with other users and to make it available
       for possible inclusion in future versions of <acronym>JabRef</acronym>.
       Please also let us know on the <acronym>JabRef</acronym> mailing list about your new code.</p>
@@ -119,7 +120,7 @@
       <h3 id="donations">Donations</h3>
       <p>Finally, if you enjoy using <acronym>JabRef</acronym> and would like to make
       a donation, take a look at our
-      <a href="http://sourceforge.net/project/project_donations.php?group_id=92314">
+      <a href="http://sourceforge.net/p/jabref/donate/">
       Donations page</a>.</p>
 
     </div>

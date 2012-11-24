@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>R&eacute;cup&eacute;ration depuis CiteSeerX</title>
+  <title>R&eacute;cup&eacute;ration d'entr&eacute;es depuis CiteSeerX</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -16,7 +16,7 @@
     <a href="Contents.php">Retour au contenu</a>
 
 
-    <h1>R&eacute;cup&eacute;ration depuis CiteSeerX</h1>
+    <h1>R&eacute;cup&eacute;ration d'entr&eacute;es depuis CiteSeerX</h1>
 
     <p>Pour utiliser cette fonction, choisissez <b>Recherche -&gt; Recherche Web</b>.
     L'interface de recherche apparaitra dans le panneau lat&eacute;ral. S&eacute;lectionnez

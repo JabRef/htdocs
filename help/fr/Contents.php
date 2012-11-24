@@ -25,7 +25,7 @@
       <li><a href="BaseFrameHelp.php">La fen&ecirc;tre principale de JabRef</a></li>
       <li><a href="EntryEditorHelp.php">&Eacute;diteur d'entr&eacute;es</a></li>
       <li><a href="Autosave.php">Sauvegarde automatique</a></li>
-      <li><a href="SpecialFieldsHelp.php">Champs spéciaux</a></li>
+      <li><a href="SpecialFieldsHelp.php">Champs sp&eacute;ciaux</a></li>
     </ul>
 
     <h2>Champs</h2>
@@ -37,6 +37,7 @@
       <li><a href="OwnerHelp.php">Le champ 'owner' (propri&eacute;taire)</a></li>
       <li><a href="ContentSelectorHelp.php">S&eacute;lecteur de contenu de champ</a></li>
       <li><a href="JournalAbbreviations.php">Abr&eacute;viations de journaux</a></li>
+      <li><a href="SpecialFieldsHelp.php">Champs sp&eacute;ciaux</a></li>
     </ul>
 
     <h2>Recherche et tri des entr&eacute;es</h2>
@@ -64,16 +65,17 @@
       <li><a href="ImportInspectionDialog.php">Fen&ecirc;tre de v&eacute;rification des importations</a></li>
       <li><a href="EndNoteFilters.php">Filtres d'importation/exportation d'EndNote</a></li>
       <li><a href="OpenOfficeIntegration.php">Utiliser JabRef avec OpenOffice.org ou LibreOffice</a></li>
-      <li><a href="ACMPortalHelp.php">R&eacute;cup&eacute;ration des entr&eacute;es depuis le portail <em>ACM</em></a></li>
-      <li><a href="CiteSeerHelp.php">R&eacute;cup&eacute;ration des entr&eacute;es depuis <em>CiteSeerX</em></a></li>
-      <li><a href="DOItoBibTeXHelp.php">R&eacute;cup&eacute;ration des entr&eacute;es avec le convertisseur <em>DOI vers BibTeX</em></a></li>
-      <li><a href="GoogleScholarHelp.php">R&eacute;cup&eacute;ration des entr&eacute;es depuis <em>Google Scholar</em></a></li>      
-      <li><a href="IEEEXploreHelp.php">R&eacute;cup&eacute;ration des entr&eacute;es depuis <em>IEEExplore</em></a></li>
-      <li><a href="ISBNtoBibTeXHelp.php">R&eacute;cup&eacute;ration des entr&eacute;es avec le convertisseur <em>ISBN vers BibTeX</em></a></li>
-      <li><a href="MedlineHelp.php">R&eacute;cup&eacute;ration des entr&eacute;es depuis <em>Medline</em></a></li>
-      <li><a href="JSTOR.php">R&eacute;cup&eacute;ration des entr&eacute;es depuis <em>JStor</em></a></li>
-      <li><a href="ScienceDirect.php">R&eacute;cup&eacute;ration des entr&eacute;es depuis <em>ScienceDirect</em></a></li>
-      <li><a href="Spires.php">R&eacute;cup&eacute;ration des entr&eacute;es depuis <em>Spires</em></a></li>
+      <li><a href="ACMPortalHelp.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis le portail <em>ACM</em></a></li>
+      <li><a href="CiteSeerHelp.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis <em>CiteSeerX</em></a></li>
+      <li><a href="DiVAtoBibTeXHelp.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis <em>DiVA</em></a></li>
+      <li><a href="DOItoBibTeXHelp.php">R&eacute;cup&eacute;ration d'entr&eacute;es avec le convertisseur <em>DOI vers BibTeX</em></a></li>
+      <li><a href="GoogleScholarHelp.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis <em>Google Scholar</em></a></li>      
+      <li><a href="IEEEXploreHelp.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis <em>IEEExplore</em></a></li>
+      <li><a href="ISBNtoBibTeXHelp.php">R&eacute;cup&eacute;ration d'entr&eacute;es avec le convertisseur <em>ISBN vers BibTeX</em></a></li>
+      <li><a href="MedlineHelp.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis <em>Medline</em></a></li>
+      <li><a href="JSTOR.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis <em>JStor</em></a></li>
+      <li><a href="ScienceDirect.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis <em>ScienceDirect</em></a></li>
+      <li><a href="Spires.php">R&eacute;cup&eacute;ration d'entr&eacute;es depuis <em>Spires</em></a></li>
       <li><a href="SQLExport.php">Exporter vers une base de donn&eacute;es SQL externe</a></li>
       <li><a href="XMPHelp.php">Support des m&eacute;tadonn&eacute;es XMP dans JabRef</a></li>
       <li><a href="CommandLine.php">Options de la ligne de commande</a></li>

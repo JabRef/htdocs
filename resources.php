@@ -301,6 +301,13 @@
       respective abbreviations. to set up these lists, choose 
       <b>Options -> Manage journal abbreviations</b>.</p>
 
+      <p>The format of the file is <pre>&lt;full name&gt; = &lt;abbreviation&gt; [;shortest unique abbreviation[;frequency]].</pre>
+      The two last fields are not currently used, and you can actually safely omit them.
+      The intention of the third field is to contain the &ldquo;shortest unique abbreviation&rdquo;, and the
+      fourth field gives frequency (e.g., M for monthly). For instance:
+      <pre>Accounts of Chemical Research=Acc. Chem. Res.;ACHRE4;M</pre>
+      This was done in old versions of the &ldquo;general journals list&rdquo; primarily
+      because the information was available.</p>
 
       <h3 id="downloadlists">Downloadable journal abbreviation lists</h3>
       <p><acronym>JabRef</acronym> includes no list of journals by default. Instead, the

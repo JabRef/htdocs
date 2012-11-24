@@ -15,13 +15,13 @@
 
     <div id="rightpanel">
 
-      <h3 id="tools_rightpanel">External tools</h3>
+      <h3 id="tools_rightpanel"><a href="#exttools">External tools</a></h3>
       <ul>
         <li><a href="#OOtool">JabRef formatter</a></li>
         <li><a href="#PocketBib">PocketBib</a></li>
       </ul>
 
-      <h3 id="plugins_rightpanel">Plugins</h3>
+      <h3 id="plugins_rightpanel"><a href="#plugins">Plugins</a></h3>
       <ul>
         <li><a href="#BibSonomy">BibSonomy plugin</a></li>
         <li><a href="#PushEmacsclient">Push to Emacsclient</a></li>
@@ -29,14 +29,14 @@
         <li><a href="#renamer">Rename files plugin</a></li>
       </ul>
 
-      <h3 id="fetchers_rightpanel">Entry fetchers</h3>
+      <h3 id="fetchers_rightpanel"><a href="#">Entry fetchers</a></h3>
       <ul>
         <li><a href="#ADS">JabRef ADS fetcher</a></li>
         <li><a href="#ADS_HUG">Modified JabRef ADS fetcher</a></li>
         <li><a href="#GVK">GVK/SRU fetcher</a></li>
       </ul>
 
-      <h3 id="exportfilters_rightpanel">Export filters</h3>
+      <h3 id="exportfilters_rightpanel"><a href="#export_filters">Export filters</a></h3>
       <ul>
         <li><a href="#Marks_filters">Mark Schenk's HTML export filters</a></li>
         <li><a href="#Martens_filters">Marten Kooiker's RTF export filters</a></li>
@@ -47,22 +47,13 @@
         <li><a href="#Turabian">Turabian export filters</a></li>
       </ul>
 
-      <h3 id="journallists_rightpanel">Journal lists</h3>
+      <h3 id="endnote_rightpanel"><a href="#endnote_filters">Endnote filter set</a></h3>
+
+      <h3 id="journallists_rightpanel"><a href="#abbrev_lists">Journal lists</a></h3>
       <ul>
-        <li><a href="journals/journal_abbreviations_general.txt">General list</a></li>
-        <li><a href="journals/journal_abbreviations_ams.txt">American Mathematical Society journals abbreviation list</a> by Tzu-Hao Wei.</li>
-        <li><a href="https://github.com/timstaley/jabref-astro-abbreviations/blob/master/MNRAS_abbreviations.txt">Astronomy journals abbreviation list</a> by Tim Staley. <i>Note: Please contribute using <a href="https://github.com/timstaley/jabref-astro-abbreviations">github</a>.</i></li>
-        <li><a href="journals/journal_abbreviations_aea.txt">Economics journal abreviations as posted on the AEA website</a> by Jeff Arnold.</li>
-        <li><a href="journals/journal_abbreviations_entrez.txt">Entrez journals abbreviation list</a> by Emmanuel Charpentier. <i>Note: provides Medline (dotless) abbr. only.</i></li>
-        <li><a href="journals/journal_abbreviations_geology_physics.txt">Geology and Physics abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/164/">anonymous user</a>.</li>
-        <li><a href="journals/journal_abbreviations_ieee.txt">IEEE abbreviation list</a> by Thomas Arildsen.</li>
-        <li><a href="journals/journal_abbreviations_medicus.txt">Index Medicus abbreviation list</a> by Guy Tsafnat.
-        <i>Note: provides Medline (dotless) abbr. only.</i></li>
-        <li><a href="http://people.su.se/~alau4517/jabref.wos.txt">ISI Web of Science journal list</a> by Alistair Auffret.</li>
-        <li><a href="journals/journal_abbreviations_lifescience.txt">Life Science abbreviation list</a> by Z&eacute; Roberto Ribeiro.</li>
-        <li><a href="journals/journal_abbreviations_mechanical.txt">Mechanical and biomechanical abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/151/">anonymous user</a>.</li>
-        <li><a href="journals/journal_abbreviations_meteorology.txt">Meteorology journal list</a> by Thijs Heus.</li>
-        <li><a href="journals/journal_abbreviations_sociology.txt">Sociology journal list</a> by Ronggui Huang.</li>
+        <li><a href="#downloadlists">Downloadable journal abbreviation lists</a></li>
+        <li><a href="#contribution">Contribution to journal abbreviation lists</a></li>
+        <li><a href="#availablelists">Available journal abbreviation lists</a></li>
       </ul>
 
     </div>
@@ -173,7 +164,7 @@
       Wiki page on getting started writing plugins</a>.</p>
 
 
-      <h2>Entry fetchers</h2>
+      <h2 id="entryfetchers">Entry fetchers</h2>
 
       <h3 id="ADS">JabRef ADS fetcher</h3>
       <p><em>by Ryo Igarashi</em></p>
@@ -311,7 +302,7 @@
       <b>Options -> Manage journal abbreviations</b>.</p>
 
 
-      <h3 id="downloadlists">Downloadable journal lists</h3>
+      <h3 id="downloadlists">Downloadable journal abbreviation lists</h3>
       <p><acronym>JabRef</acronym> includes no list of journals by default. Instead, the
       management window allows you to edit a personal list of
       journals, and to reference one or more external lists. To make this
@@ -338,10 +329,26 @@
       patch entry, or keep the list on you own home page and link to it.
       We will then add your list to this page.</p>
 
-    <?php include("footer.php"); ?>
-
+      <h3 id="availablelists">Available journal lists</h3>
+      <ul>
+        <li><a href="journals/journal_abbreviations_general.txt">General list</a></li>
+        <li><a href="journals/journal_abbreviations_ams.txt">American Mathematical Society journals abbreviation list</a> by Tzu-Hao Wei.</li>
+        <li><a href="https://github.com/timstaley/jabref-astro-abbreviations/blob/master/MNRAS_abbreviations.txt">Astronomy journals abbreviation list</a> by Tim Staley. <i>Note: Please contribute using <a href="https://github.com/timstaley/jabref-astro-abbreviations">github</a>.</i></li>
+        <li><a href="journals/journal_abbreviations_aea.txt">Economics journal abreviations as posted on the AEA website</a> by Jeff Arnold.</li>
+        <li><a href="journals/journal_abbreviations_entrez.txt">Entrez journals abbreviation list</a> by Emmanuel Charpentier. <i>Note: provides Medline (dotless) abbr. only.</i></li>
+        <li><a href="journals/journal_abbreviations_geology_physics.txt">Geology and Physics abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/164/">anonymous user</a>.</li>
+        <li><a href="journals/journal_abbreviations_ieee.txt">IEEE abbreviation list</a> by Thomas Arildsen.</li>
+        <li><a href="journals/journal_abbreviations_medicus.txt">Index Medicus abbreviation list</a> by Guy Tsafnat.
+        <i>Note: provides Medline (dotless) abbr. only.</i></li>
+        <li><a href="http://people.su.se/~alau4517/jabref.wos.txt">ISI Web of Science journal list</a> by Alistair Auffret.</li>
+        <li><a href="journals/journal_abbreviations_lifescience.txt">Life Science abbreviation list</a> by Z&eacute; Roberto Ribeiro.</li>
+        <li><a href="journals/journal_abbreviations_mechanical.txt">Mechanical and biomechanical abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/151/">anonymous user</a>.</li>
+        <li><a href="journals/journal_abbreviations_meteorology.txt">Meteorology journal list</a> by Thijs Heus.</li>
+        <li><a href="journals/journal_abbreviations_sociology.txt">Sociology journal list</a> by Ronggui Huang.</li>
+      </ul>
     </div>
   </div>
+  <?php include("footer.php"); ?>
 
 </body>
 </html>

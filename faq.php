@@ -50,6 +50,9 @@
       <p class="question">Q: I want to link external files with paths relative to my .bib file, so I can easily move my database along with its files to another directory. Is this possible?</p>
       <p class="answer">A: Yes. You need to override the default file directory for this specific database. Go to <b>File -> Database properties</b> and change the <b>Default file directory</b> setting. If you simply enter &quot;.&quot; (a dot, without the quotes), the file directory will be the same as the .bib file directory. To place your files in a subdirectory called <b>subdir</b>, you can enter <b>&quot;./subdir&quot;</b>. Files will automatically be linked with relative paths if the files are placed in the default file directory or in a directory below it.</p>
 
+      <p class="question">Q: I want to export my bibliography entries into a simple text file so that I can import them into a spreadsheet easily. Is this possible?</p>
+      <p class="answer">A: Yes. Use <b>File -> Export</b>. At &ldquo;Files of type&rdquo; choose &ldquo;OpenOffice CSV (*.csv)&rdquo;.</p>
+
       <h3 id="linux"><acronym>JabRef</acronym> &amp; Linux</h3>
 
       <p class="question">Q: Does <acronym>JabRef</acronym> run under free Java (Classpath, Kaffee, GCJ, etc.)?</p>

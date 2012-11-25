@@ -53,6 +53,17 @@
       <p class="question">Q: I want to export my bibliography entries into a simple text file so that I can import them into a spreadsheet easily. Is this possible?</p>
       <p class="answer">A: Yes. Use <b>File -> Export</b>. At &ldquo;Files of type&rdquo; choose &ldquo;OpenOffice CSV (*.csv)&rdquo;.</p>
 
+      <p class="question">Q: How can I add and remove keywords of multiple entries?</p>
+      <p class="answer">A: Select the entries. Right click. Choose &ldquo;Manage keywords&rdquo;. Then you can manage keywords appearing in all selected entries or in any selected entry. New keywords are added to all selected entries.</p>
+
+      <p class="question">Q: I want to have bib file specific PDF directory.</p>
+      <p class="answer">A: Right click on the tab of the .bib file. Choose &ldquo;Database properties&rdquo;. Then at the field &ldquo;General file directory&rdquo; choose the directory specific for the database. 
+      If you want to set a directory for you only and other users should use the default directory, use the field &ldquo;User-specific file directory&rdquo;.
+      The fields &ldquo;PDF directory&rdquo; and &ldquo;PS directory&rdquo; are legacy fields. Just ignore them.</p>
+
+      <p class="question">Q: When linking a file, I cannot set the correct type. How can I add new types?</p>
+      <p class="answer">A: Go to Options -> Preferences -> External programs. Click on &ldquo;Manage external file types&rdquo;. Here you can add arbitrary types.</p>
+
       <h3 id="linux"><acronym>JabRef</acronym> &amp; Linux</h3>
 
       <p class="question">Q: Does <acronym>JabRef</acronym> run under free Java (Classpath, Kaffee, GCJ, etc.)?</p>
@@ -104,10 +115,10 @@ distribution, so we cannot give exact advise for everybody. </p>
 
       <p class="question">Q: My question is not answered here. What can I do?</p>
       <p class="answer">A: After consulting the <a href="http://jabref.sourceforge.net/documentation.php">documentation</a>
-      and checking whether your question has been answered in the <a href="https://sourceforge.net/forum/forum.php?forum_id=318825">forum</a>, check the <a href="https://sourceforge.net/tracker/?group_id=92314&amp;atid=600306">bug-tracker</a> if this has been discussed before (filter for Any Bugs). If you cannot find anything in an reasonable amount of time write a message in the forum, problems usually get resolved rather quickly (at least we hope so ;-).</p>
+      and checking whether your question has been answered in the <a href="https://sourceforge.net/p/jabref/discussion/318825/">forum</a>, check the <a href="https://sourceforge.net/p/jabref/bugs/">bug-tracker</a> if this has been discussed before. If you cannot find anything in an reasonable amount of time write a message in the forum, problems usually get resolved rather quickly (at least we hope so ;-).</p>
 
       <p class="question">Q: There is a mistake in this FAQ, a dead link or I have written a better/new explanation for a question!</p>
-      <p class="answer">A: Let us know as soon as possible! => <a href="https://sourceforge.net/forum/forum.php?forum_id=318825"><acronym>JabRef</acronym> User Forum</a></p>
+      <p class="answer">A: Let us know as soon as possible! => <a href="https://sourceforge.net/p/jabref/discussion/318825/"><acronym>JabRef</acronym> User Forum</a> or our <a href="https://lists.sourceforge.net/lists/listinfo/jabref-users">mailinglist</a></p>
 
     </div>
     <?php include("footer.php"); ?>

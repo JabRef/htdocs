@@ -36,6 +36,9 @@
 
       <ul class="history_column">
 
+	<li class="item">November 18th, 2012</li>
+	<li class="item_desc">Version 2.9 beta 2</li>
+
 	<li class="item">October 24th, 2012</li>
 	<li class="item_desc">Version 2.9 beta</li>
 

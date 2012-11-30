@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.9b2">2.9 beta 2</a></li>
         <li class="single_item"><a href="#v2.9b">2.9 beta</a></li>
         <li class="single_item"><a href="#v2.8.1">2.8.1</a></li>
         <li class="single_item"><a href="#v2.8">2.8</a></li>
@@ -78,6 +79,40 @@
     <div id="main">
 
       <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.9b2">
+
+      <h3>Version 2.9 beta 2 (November 18th, 2012)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>Added DiVA fetcher</li>
+            <li>Can control if the HTML converter should create subscripts and superscripts as text or an equation via the preferences</li>
+            <li>Added initial support for adding curly brackets {} for certain key words to keep the character case independent of .bst, e.g., for names and abbreviations (use via &quot;Cleanup entries&quot;) and can be controlled via preferences if it should be used at searches</li>
+            <li>Fixed author and DOI import from IEEE Xplore</li>
+            <li>Improved import of equations in IEEE Xplore titles handling images, (sub) and /spl / representations</li>
+            <li>Rewrote the HTML import in a more general way. A few characters need to be added.</li>
+            <li>IEEE Xplore abstract fetching should now be working again.</li>
+            <li>Added DOI to BibTex entry fetcher.</li>
+            <li>Added ADS (The SAO/NASA Astrophysics Data System) fetcher by Ryo Igarashi (patch #120).</li>
+            <li>Reintroduced Google Scholar and ACM portal fetcher with entry preview to reduce server load.</li>
+            <li>Added alternate entry fetcher type where a preview can be displayed so the user can choose which entries to download. This can reduce server load significantly and prevent users from getting locked out of search services.</li>
+            <li>Fix for exception and minor bugs in HTML import parsing (patch 3575998 by Daniel Svï¿½rd)</li>
+            <li>HTML import handles more characters. Cleanup can also do HTML cleanup. (Patch 3582375 by Oscar Gustafsson)</li>
+            <li>During file renaming: More illegal characters are removed (idea by Sarel Botha)</li>
+            <li>Rudimentary support for IEEEtranBSTCTL added (patch 3582376 by Oscar Gustafsson)</li>
+            <li>&quot;:&quot; is not filtered from the BibTeX keys any more (patch 3582376 by Oscar Gustafsson)</li>
+            <li>Changed internal look&amp;feel setting (based on patch 3580605)</li>
+            <li>Custom importers nested in jars should be supported now (bug 3582838)</li>
+            <li>PDFContentImporter uses the DOI fetcher to fetch the BibTeX for the entry (if a DOI exists at the first page).</li>
+            <li>Moved migration of legacy PDF/PS fields from legacy tools to clean up dialog.</li>
+            <li>MHT files can now also be linked by drag'n'drop without the need to configure &quot;external file types&quot;.</li>
+            <li>Adds support for Ubunut's global menu and HUD integration by using java-swing-ayatana (feature #796).</li>
+            <li>Updates PostgreSQL support to PostgreSQL 9.2</li>
+            <li>New Mac OS X icon (patch #61)</li>
+          </ul>
+        </div>
+      </div>
+
 
     <div class="aversion" id="v2.9b">
 

@@ -47,6 +47,13 @@
 	  <p class="question">Q: I have an ISBN. Is it possible to create an entry directly out of the ISBN?</p>
 	  <p class="answer">A: Yes. Follow the instroctions for converting a DOI. Instead of the &ldquo;DOI to BibTeX&rdquo; fetcher, use &ldquo;ISBN to BibTeX&rdquo;.</p>
 
+	  <p class="question">Q: I miss a field translator, lastfollowedon, ... How can I add such fields?</p>
+	  <p class="answer">A:  You can add a &ldquo;translator&ldquo; (or any other) field yourself in <acronym>JabRef</acronym>. Either edit the specific entry type(s)
+      (Options->Customize entry types) and add a 'translator' field under required
+      fields or optional fields, as you like. Or, you can use Options->Set up general fields and add a
+      &ldquo;translator&rdquo; field under one of <acronym>JabRef</acronym>'s general field tabs. This way, the &ldquo;translator&rdquo;
+      field will not only apply to a specific entry type.</p>
+
       <p class="question">Q: How do I prevent <acronym>JabRef</acronym> from introducing line breaks in certain fields (such as &ldquo;title&rdquo;) when saving the .bib file?</p>
       <p class="answer">A: Open Tools -> Preferences. In the &ldquo;General&rdquo; panel, you will find an option called &ldquo;Do not wrap the following fields when saving&rdquo;. This option contains a semicolon-separated list of field names. Any field you add to this list will always be stored without introduction of line breaks.</p>
 

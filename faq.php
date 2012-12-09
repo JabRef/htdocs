@@ -45,7 +45,7 @@
 	  <p class="answer">A: Yes. Go to Search and click on &ldquo;Web Search&rdquo; to enable the Web search. A Web search box appears on the left side of <acronym>JabRef</acronym>. &ldquo;ACM Portal&rdquo; is selected. Click on it and change it to &ldquo;DOI to BibTeX&rdquo;. Enter the DOI in the field and press &ldquo;Fetch&rdquo;. A search starts and the result is displayed in a new pop up window. One entry should appear. Just push &ldquo;OK&rdquo; to insert the entry into the database.</p>
 
 	  <p class="question">Q: I have an ISBN. Is it possible to create an entry directly out of the ISBN?</p>
-	  <p class="answer">A: Yes. Follow the instroctions for converting a DOI. Instead of the &ldquo;DOI to BibTeX&rdquo; fetcher, use &ldquo;ISBN to BibTeX&rdquo;.</p>
+	  <p class="answer">A: Yes. Follow the instructions for converting a DOI. Instead of the &ldquo;DOI to BibTeX&rdquo; fetcher, use &ldquo;ISBN to BibTeX&rdquo;.</p>
 
 	  <p class="question">Q: I miss a field translator, lastfollowedon, ... How can I add such fields?</p>
 	  <p class="answer">A:  You can add a &ldquo;translator&ldquo; (or any other) field yourself in <acronym>JabRef</acronym>. Either edit the specific entry type(s)

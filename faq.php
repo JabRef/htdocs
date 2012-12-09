@@ -77,6 +77,9 @@
       <p class="question">Q: When linking a file, I cannot set the correct type. How can I add new types?</p>
       <p class="answer">A: Go to Options -> Preferences -> External programs. Click on &ldquo;Manage external file types&rdquo;. Here you can add arbitrary types.</p>
 
+	  <p class="question">Q: Is there a portable version of JabRef?</p>
+	  <p class="answer">A: Store jabref.jar on the drive. It can be opened directly on any computer offering a Java installation. No need for &ldquo;portable apps&rdquo; at all, no need to use the installer ever. Besides, the <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">Webstart</a> is also an option.</p>
+
       <h3 id="linux"><acronym>JabRef</acronym> &amp; Linux</h3>
 
       <p class="question">Q: Does <acronym>JabRef</acronym> run under free Java (Classpath, Kaffee, GCJ, etc.)?</p>

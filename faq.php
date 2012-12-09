@@ -41,6 +41,12 @@
       <p class="question">Q: BibTeX converts uppercase characters to lowercase in my title field. I know this can be prevented by wrapping uppercase letters in braces, e.g. &quot;{T}he life cycle of {A}tlantic salmon&quot;, but this is too much work. Can <acronym>JabRef</acronym> help?</p>
       <p class="answer">A: <acronym>JabRef</acronym> has a setting that will automatically wrap all capital letters for certain fields in { } - this will make sure they are preserved in the LaTeX output. Under <b>Options -> Preferences -> General -> File -> &ldquo;Store the following fields with braces around capital letters&rdquo;</b>, make sure the title field is included. To do this for several fields, write e.g. &ldquo;title;abstract&rdquo; (without the quotes). This setting automatically adds braces when saving the bib file, but you won't see the braces within <acronym>JabRef</acronym>.</p>
 
+	  <p class="question">Q: I have a DOI. Is it possible to create an entry directly out of the DOI?</p>
+	  <p class="answer">A: Yes. Go to Search and click on &ldquo;Web Search&rdquo; to enable the Web search. A Web search box appears on the left side of <acronym>JabRef</acronym>. &ldquo;ACM Portal&rdquo; is selected. Click on it and change it to &ldquo;DOI to BibTeX&rdquo;. Enter the DOI in the field and press &ldquo;Fetch&rdquo;. A search starts and the result is displayed in a new pop up window. One entry should appear. Just push &ldquo;OK&rdquo; to insert the entry into the database.</p>
+
+	  <p class="question">Q: I have an ISBN. Is it possible to create an entry directly out of the ISBN?</p>
+	  <p class="answer">A: Yes. Follow the instroctions for converting a DOI. Instead of the &ldquo;DOI to BibTeX&rdquo; fetcher, use &ldquo;ISBN to BibTeX&rdquo;.</p>
+
       <p class="question">Q: How do I prevent <acronym>JabRef</acronym> from introducing line breaks in certain fields (such as &ldquo;title&rdquo;) when saving the .bib file?</p>
       <p class="answer">A: Open Tools -> Preferences. In the &ldquo;General&rdquo; panel, you will find an option called &ldquo;Do not wrap the following fields when saving&rdquo;. This option contains a semicolon-separated list of field names. Any field you add to this list will always be stored without introduction of line breaks.</p>
 

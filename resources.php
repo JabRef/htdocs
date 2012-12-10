@@ -19,6 +19,7 @@
       <ul>
         <li><a href="#OOtool">JabRef formatter</a></li>
         <li><a href="#PocketBib">PocketBib</a></li>
+		<li><a href="#bibtex4word">Bibtex4Word</a></li>
       </ul>
 
       <h3 id="plugins_rightpanel"><a href="#plugins">Plugins</a></h3>
@@ -27,6 +28,7 @@
         <li><a href="#PushEmacsclient">Push to Emacsclient</a></li>
         <li><a href="#Lehner">Christoph Lehner's plugins</a></li>
         <li><a href="#renamer">Rename files plugin</a></li>
+		<li><a href="#PRRV">Paper Reference Relationship Visualization Plugin</a></li>
       </ul>
 
       <h3 id="fetchers_rightpanel"><a href="#">Entry fetchers</a></h3>
@@ -77,6 +79,11 @@
       <p>PocketBib is a BibTeX library reader for iPads and iPhones that's compatible with JabRef.  With PocketBib you can search, browse and read the linked papers in your library, and synchronise them over Dropbox.</p>
 
       <a href="http://www.grahamdennis.me/pocketbib/">PocketBib</a>
+
+	  <h3 id="bibtex4word">Bibtex4word</h3>
+	  <p><em>by Mike Brookes</em></p>
+	  <p>Bibtex4Word is an add-in for Microsoft Word that allows the citation of references and the insertion of a bibliography into your document using your choice of formatting style. It is lightweight, transparent and does not mess up your documents.</p>
+	  <a href="http://www.ee.ic.ac.uk/hp/staff/dmb/perl/index.html">Bibtex4Word</a>
 
       <h2 id="plugins">Plugins</h2>
 
@@ -155,6 +162,10 @@
       JabRef 2.9 will contain the rename functionality as part of the &ldquo;Clean up&rdquo; functionality.
       </p>
 
+	  <h4 id="PRRV">Paper Reference Relationship Visualization Plugin</h4>
+	  <p><em>by ZHANG Liang</em></p>
+	  <p>JabRef Paper Reference Relationship Visualization Plugin Project provides a plugin to visualize the reference relationship between selected papers.
+	  It is available as <a href="https://sourceforge.net/projects/jabrefprrvp/">separate project on sourceforge</a>.</p>
 
       <h3>Developing plugins</h3>
       <p>A plugin is basically an implementation of one or more of JabRef's

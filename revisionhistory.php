@@ -80,8 +80,23 @@
 
       <h2>Revision history</h2>
 
-    <div class="aversion" id="v2.9b2">
+    <div class="aversion" id="v2.9">
 
+      <h3>2.9 (December 15th, 2012)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>Fixed bug: in OO/LO reference lists, entries may fall out when multiple entries with same
+              author and year are cited.</li>
+            <li>Added support for converting HTML combining accents to LaTeX</li>
+            <li>When generating subdatabase from AUX file, preamble and strings are now included from
+              the source database.</li>
+            <li>Added cleanup action for removing redundant $, {, and }</li>
+            <li>Fix for removing starting and ending spaces in the page number cleanup action</li>
+            <li>Fix for a more liberal detection in the month cleanup action</li>
+          </ul>
+        </div>
+    </div>
+    <div class="aversion" id="v2.9b2"> 
       <h3>Version 2.9 beta 2 (November 18th, 2012)</h3>
         <div class="version_desc">
           <ul>

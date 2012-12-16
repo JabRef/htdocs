@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef version 2.9b2</title>
+  <title>JabRef version 2.9</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -16,7 +16,7 @@
     <a href="Contents.php">Retour au contenu</a>
 
 
-        <h1>JabRef version 2.9b2</h1>
+        <h1>JabRef version 2.9</h1>
 
         <div id="logo">
         <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
@@ -39,7 +39,6 @@
         Nizar N. Batada,
         Michel Baylac,
         Kolja Brix,
-        Fr&eacute;d&eacute;ric Darboux,
         Guillaume Gardey,
         Oscar Gustafsson,
         Cyrille d'Haese,
@@ -52,11 +51,9 @@
         Andreas Rudert,
         Michael Spiegel,
         Ulrik Stervbo,
-        Dominik Wa&szlig;enhoven,
         Joerg K. Wegner,
         Michael Wrighton,
         Egon Willighagen,
-        Wenbo Yang,
         J&ouml;rg Zieren</p>
 
         <h2>Contributions de&nbsp;:</h2>

@@ -102,6 +102,9 @@ distribution, so we cannot give exact advise for everybody. </p>
 
       <h3 id="windows"><acronym>JabRef</acronym> &amp; Windows</h3>
 
+	  <p class="question">Q: JabRef does not start on Windows 8, 64bit</p>
+	  <p class="answer">A: Setting <code>JAVA_HOME</code> environment to java installation directory (e.g. <code>C:\Program Files (x86)\Java\jre7</code>) resolves this issue. An environment variable can be added/modified from Control Panel -> System and Security -> System -> Advanced System Setting -> Advanced Setting tab -> Environment Variables button.</p>
+
       <p class="question">Q: My virus-scanner tells me that <acronym>JabRef</acronym> is a virus. Is your server compromised?</p>
       <p class="answer">A: No. But the windows installer uses <a href="http://nsis.sourceforge.net/Main_Page">the Nullsoft Scriptable Install System (NSIS)</a> version 2.18 (as of <acronym>JabRef</acronym> 2.1) which unfortunately creates installers that are thought to be viruses by some virus-scanners.</p>
       <p class="answer">See the <a href="http://forums.winamp.com/showthread.php?postid=1977648">discussion

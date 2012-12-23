@@ -78,7 +78,7 @@
       <p class="answer">A: Go to Options -> Preferences -> External programs. Click on &ldquo;Manage external file types&rdquo;. Here you can add arbitrary types.</p>
 
 	  <p class="question">Q: Is there a portable version of JabRef?</p>
-	  <p class="answer">A: Store jabref.jar on the drive. It can be opened directly on any computer offering a Java installation. No need for &ldquo;portable apps&rdquo; at all, no need to use the installer ever. Besides, the <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">Webstart</a> is also an option.</p>
+	  <p class="answer">A: Store jabref.jar on the drive. It can be opened directly on any computer offering a Java installation. Be sure to activate &ldquo;Load and Save preferences from/to jabref.xml on start-up (memory stick mode)&rdquo; in the Preferences->General. Besides, the <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">Webstart</a> is also an option.</p>
 
       <h3 id="linux"><acronym>JabRef</acronym> &amp; Linux</h3>
 

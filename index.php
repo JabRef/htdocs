@@ -15,7 +15,7 @@
 
     <div id="rightpanel">
 
-      <a href="http://jabref.sourceforge.net/translation.php">
+      <a href="translation.php">
       <img src="images/jti.png" alt="JabRef translation initiative" /></a>
 
       <p>Please help us to translate <acronym>JabRef</acronym> into your language.</p>

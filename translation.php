@@ -79,6 +79,7 @@
       <pre><code>java -jar build/lib/JabRef-X.jar</code></pre>
       <p>where &ldquo;X&rdquo; is the current version number in the source tree.</p>
 
+	  <p>More information is available at our <a href="http://sourceforge.net/apps/mediawiki/jabref/index.php?title=Translating_JabRef">Wiki page</a>.</p>
     </div>
     <?php include("footer.php"); ?>
   </div>

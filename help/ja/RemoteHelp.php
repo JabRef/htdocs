@@ -6,7 +6,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>リモート操作</title>
+  <title>Remote operation</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -16,17 +16,38 @@
     <a href="Contents.php">目次に戻る</a>
 
 
-    <h1>リモート操作</h1>
+    <h1>Remote operation</h1>
 
-    <p>本機能は、<b>設定→詳細設定</b>で入切したり設定したりすることができます。</p>
+    <p>This feature can be toggled and
+    configured under <b>Preferences -&gt; Advanced</b>.</p>
 
-    <p><i>Windows XP SP2(恐らく他のシステムでも)で本機能を有効にすると、このプログラムの機能のうち、Windowsファイアウォールによってブロックされる機能があるかもしれないというメッセージボックスが表示されることがあるかもしれません。この場合、ファイアウォールにブロックを続けさせるように返答して構いません。ファイアウォールは、JabRefのリモート操作と干渉しません。</i></p>
+    <p><i>Note that activating this feature under Windows XP SP2
+    (and possibly other configurations) may prompt a message box
+    stating that certain features of the program have been blocked
+    by the Windows firewall. You can safely tell the firewall to
+    keep blocking - the firewall will not interfere with remote
+    operation of JabRef.</i></p>
 
-    <p>リモート操作の待ち受けを有効にすると、JabRefは、起動時に特定のポートでの待ち受けを開始するように試みます。つまり、他のアプリケーションが、このポートを通じてJabRefに情報を送ることができるようになります。JabRefは、外部からの干渉リスクを回避するため、ローカル接続のみを許可します。</p>
+    <p>If listening for remote operation is enabled, JabRef will at
+    startup attempt to start listening to a specific port. This
+    means that other applications can send information to JabRef
+    through this port. JabRef will only accept local connections,
+    to avoid the risk of interference from outside.</p>
 
-    <p>このポートにバインドすると、2つめのJabRefインスタンスが、最初のインスタンスが実行中であることを発見できるようになります。この場合、明示的にスタンド・アローン・モードで実行するように指示しない限り、2つめのJabRefインスタンスは、最初のJabRefインスタンスに、コマンドラインオプションをこのポートを通じて渡した後、直ちに終了します。</p>
+    <p>Binding to this port makes it possible for a second JabRef
+    instance to discover that the first one is running. In this
+    case, unless specifically instructed to run in stand-alone
+    mode, the second JabRef instance will pass its command line
+    options through the port to the first JabRef instance, and then
+    immediately quit.</p>
 
-    <p>最初のJabRefインスタンスは、このコマンドラインオプションを読み、ファイルを開いたり読み込んだり等、指定された動作を実行します。ファイルが、コマンドラインオプション<code>--importToOpen</code>を使って読み込まれる場合、読み込まれた項目は、現在表示されているデータベースに追加されます。データベースが開かれていない場合には、新規に作成します。</p>
+    <p>The first JabRef instance will read the command line
+    options, and perform the indicated actions, such as reading or
+    importing a file, or importing a file to the currently shown
+    database. If a file is imported using the command-line option
+    <code>--importToOpen</code>, the imported entries will be added
+    to the currently shown database. If no database is open, a new
+    one will be created.</p>
   <?php include("../../footer.php"); ?>
   </div>
 

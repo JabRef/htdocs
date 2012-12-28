@@ -3,10 +3,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="da" xml:lang="da">
 <?php
   header('Content-type: application/xhtml+xml; charset=utf-8');
+
+  // DO NOT EDIT BY HAND
+  // This file is generated from jabref/src/help.
+  // Run generate-htdocs-help-from-jabref-src-help.pl in the root directory
+  // of the JabRef repository to regenerate the htdocs out of JabRef's help.
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef version 2.9</title>
+  <title>JabRef version 2.9.1dev</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -15,7 +20,7 @@
     <?php include("../../navigation.php"); ?>
     <a href="Contents.php">Back to contents</a>
 
-        <h1>JabRef version 2.9</h1>
+        <h1>JabRef version 2.9.1dev</h1>
 
         <div id="logo">
         <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012

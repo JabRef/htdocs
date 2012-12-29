@@ -3,6 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <?php
   header('Content-type: application/xhtml+xml; charset=utf-8');
+
+  // DO NOT EDIT BY HAND
+  // This file is generated from jabref/src/help.
+  // Run generate-htdocs-help-from-jabref-src-help.pl in the root directory
+  // of the JabRef repository to regenerate the htdocs out of JabRef's help.
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />

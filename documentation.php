@@ -49,6 +49,9 @@
       We hope to offer the user manual in other languages in the
       future.</p>
 
+	  <p>Finally, we have a <a href="http://sourceforge.net/apps/mediawiki/jabref/">Wiki</a>
+	  up and running.</p>
+
       <h3 id="install">Installation</h3>
       
       <h4 id="java">Installing Java</h4>

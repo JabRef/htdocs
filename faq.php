@@ -60,6 +60,9 @@
       <p class="question">Q: Is it possible to open files, e.g. from my web browser, in the running instance of JabRef instead of opening a new instance?</p>
       <p class="answer">A: Yes, if you activate the &ldquo;Remote operation&rdquo; option under <b>Preferences -> Advanced</b>. This option allows new instances of JabRef to detect the instance already running, and pass files to that instead of opening a new window.</p>
 
+      <p class="question">Q: Is it possible to append entries from a BibTeX file, e.g. from my web browser, to the currently opened database?</p>
+      <p class="answer">A: Yes, in the upcoming version, you can use the parameter <code>--importToOpen bibfile</code>.</p>
+
       <p class="question">Q: I want to link external files with paths relative to my .bib file, so I can easily move my database along with its files to another directory. Is this possible?</p>
       <p class="answer">A: Yes. You need to override the default file directory for this specific database. Go to <b>File -> Database properties</b> and change the <b>Default file directory</b> setting. If you simply enter &ldquo;.&rdquo; (a dot, without the quotes), the file directory will be the same as the .bib file directory. To place your files in a subdirectory called <b>subdir</b>, you can enter <b>&ldquo;./subdir&rdquo;</b>. Files will automatically be linked with relative paths if the files are placed in the default file directory or in a directory below it.</p>
 
@@ -79,6 +82,12 @@
 
 	  <p class="question">Q: Is there a portable version of JabRef?</p>
 	  <p class="answer">A: Store jabref.jar on the drive. It can be opened directly on any computer offering a Java installation. Be sure to activate &ldquo;Load and Save preferences from/to jabref.xml on start-up (memory stick mode)&rdquo; in the Preferences->General. Besides, the <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">Webstart</a> is also an option.</p>
+
+      <p class="question">Q: When an organization is provided as author, my BibTeX style doesn't recognize it. For instance, &ldquo;European Commission&rdquo; is converted to &ldquo;Commission, E.&rdquo;.</p>
+      <p class=answer">A: Use braces to tell BibTeX to keep your author field as is: <code>{European Commission}</code>.</p>
+
+      <p class="question">Q: Is there a FAQ on BibTeX?</p>
+      <p class="answer">A: Yes, please look at &ldquo;Bibliographies and citations&rdquo; at the <a href="http://www.tex.ac.uk/cgi-bin/texfaq2html">UK List of TeX Frequently Asked Questions on the Web</a>. For German readers, there is the <a href="http://projekte.dante.de/DanteFAQ/LiteraturVerzeichnis">dante e.V. FAQ</a>.</p>
 
       <h3 id="linux"><acronym>JabRef</acronym> &amp; Linux</h3>
 

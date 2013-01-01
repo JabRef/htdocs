@@ -17,6 +17,8 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.9.1">2.9.1</a></li>
+        <li class="single_item"><a href="#v2.9">2.9</a></li>
         <li class="single_item"><a href="#v2.9b2">2.9 beta 2</a></li>
         <li class="single_item"><a href="#v2.9b">2.9 beta</a></li>
         <li class="single_item"><a href="#v2.8.1">2.8.1</a></li>
@@ -79,6 +81,19 @@
     <div id="main">
 
       <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.9.1">
+      <h3>2.9.1 (January 1st, 2013)</h3>
+        <div class="version_desc">
+    <ul>
+    <li>Command line option <code>--importToOpen</code> now also adds to an open tab when JabRef is launched.</li>
+    <li>Importing of entries works again. Fixes <a href="https://sourceforge.net/p/jabref/bugs/1121">bug 1121</a>.</li>
+    <li>Import inspection dialog is now modal.</li>
+    <li>Replaced Java launcher by <a href="http://launch4j.sourceforge.net/">launch4j</a>. Fixes bugs <a href="https://sourceforge.net/p/jabref/bugs/1100">1100</a>, <a href="https://sourceforge.net/p/jabref/bugs/1103">1103</a>, <a href="https://sourceforge.net/p/jabref/bugs/1123">1123</a>.</li>
+    <li>Menu font size can now be changed again. Help contents are also enlarged accordingly. Fixes <a href="https://sourceforge.net/p/jabref/bugs/1122">bug 1122</a>.</li>
+    </ul>
+	     </div>
+	</div>
 
     <div class="aversion" id="v2.9">
 

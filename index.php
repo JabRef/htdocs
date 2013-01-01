@@ -27,14 +27,21 @@
       <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">
       <img src="images/RunJabRef.png" alt="Run JabRef instantly" /></a>
 
-      <a href="http://sourceforge.net/projects/jabref/files/jabref/2.8.1"><img src="images/Download-stable.png" alt="Download current stable version" /></a>
+      <a href="http://sourceforge.net/projects/jabref/files/jabref/2.9.1"><img src="images/Download-stable.png" alt="Download current stable version" /></a>
 
+<!-- currently, there is no beta version
       <a href="download.php#beta"><img src="images/Download-beta.png" alt="Download latest beta version" /></a>
-
+-->
 
       <h3 id="News">News</h3>
 
       <ul class="history_column">
+
+	<li class="item">January 1st, 2013</li>
+	<li class="item_desc">Version 2.9.1</li>
+
+	<li class="item">December 15th, 2012</li>
+	<li class="item_desc">Version 2.9</li>
 
 	<li class="item">November 18th, 2012</li>
 	<li class="item_desc">Version 2.9 beta 2</li>
@@ -53,51 +60,6 @@
 
 	<li class="item">January 05th, 2012</li>
 	<li class="item_desc">Version 2.8 beta</li>
-
-	<li class="item">November 1st, 2011</li>
-	<li class="item_desc">Version 2.7.2</li>
-
-	<li class="item">October 21st, 2011</li>
-	<li class="item_desc">Version 2.7.1</li>
-
-	<li class="item">August 09th, 2011</li>
-	<li class="item_desc">Version 2.7</li>
-
-	<li class="item">May 09th, 2011</li>
-	<li class="item_desc">Version 2.7 beta 2</li>
-
-	<li class="item">January 16th, 2011</li>
-	<li class="item_desc">Version 2.7 beta</li>
-
-	<li class="item">April 4th, 2010</li>
-	<li class="item_desc">Version 2.6</li>
-
-	<li class="item">March 7th, 2010</li>
-	<li class="item_desc">Version 2.6 beta 3</li>
-
-	<li class="item">November 1st, 2009</li>
-	<li class="item_desc">Version 2.6 beta 2</li>
-
-	<li class="item">September 29th, 2009</li>
-	<li class="item_desc">Version 2.6 beta</li>
-
-	<li class="item">June 22th, 2009</li>
-	<li class="item_desc">Version 2.5</li>
-
-	<li class="item">May 19th, 2009</li>
-	<li class="item_desc">Version 2.5 beta 2</li>
-
-	<li class="item">April 21st, 2009</li>
-	<li class="item_desc">Version 2.5 beta</li>
-
-	<li class="item">November 1st, 2008</li>
-	<li class="item_desc">Version 2.4.2</li>
-
-	<li class="item">October 8th, 2008</li>
-	<li class="item_desc">Version 2.4.1</li>
-
-	<li class="item">September 1st, 2008</li>
-	<li class="item_desc">Version 2.4</li>
 
 	<li class="item_desc"><a href="revisionhistory.php">Older versions</a></li>
 

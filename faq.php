@@ -18,6 +18,7 @@
       <h3>Frequently Asked Questions</h3>
       <span class="single_item"><a href="#general_usage">General usage</a></span>
       <span class="single_item"><a href="#linux"><acronym>JabRef</acronym> &amp; Linux</a></span>
+      <span class="single_item"><a href="#osx"><acronym>JabRef</acronym> &amp; Mac OS X</a></span>
       <span class="single_item"><a href="#windows"><acronym>JabRef</acronym> &amp; Windows</a></span>
       <span class="single_item"><a href="#developers">Developers</a></span>
       <span class="single_item"><a href="#other">Other</a></span>
@@ -109,10 +110,14 @@ distribution, so we cannot give exact advise for everybody. </p>
 
       <p class="answer">For Ubuntu you may also have a look at the <a href="https://help.ubuntu.com/community/Java">Ubuntu page on Java</a>.</p>
 
+      <h3 id="osx"><acronym>JabRef</acronym> &amp; Mac OS X</h3>
+	  <p class="question">Q: After downloading and unzipping, OS X shows &ldquo;the package was damaged and move to trash&rdquo;</p>
+	  <p class="answer">A: On Mac OS X Lion, it is possible to resolve it by temporarily changing the Gate Keeper security settings under &ldquo;Security&amp;Privacy&rdquo; in the system preferences to &ldquo;Anywhere&rdquo;. After that you can open the <acronym>JabRef</acronym> app. When you have opened it once, you can change the security settings back and you'll still be able to open the app.</p>
+
       <h3 id="windows"><acronym>JabRef</acronym> &amp; Windows</h3>
 
 	  <p class="question">Q: JabRef does not start on Windows 8, 64bit</p>
-	  <p class="answer">A: Setting <code>JAVA_HOME</code> environment to java installation directory (e.g. <code>C:\Program Files (x86)\Java\jre7</code>) resolves this issue. An environment variable can be added/modified from Control Panel -> System and Security -> System -> Advanced System Setting -> Advanced Setting tab -> Environment Variables button.</p>
+	  <p class="answer">A: This has been resolved in JabRef 2.9.1. For older versions, setting <code>JAVA_HOME</code> environment to java installation directory (e.g. <code>C:\Program Files (x86)\Java\jre7</code>) resolves this issue. An environment variable can be added/modified from Control Panel -> System and Security -> System -> Advanced System Setting -> Advanced Setting tab -> Environment Variables button.</p>
 
       <p class="question">Q: My virus-scanner tells me that <acronym>JabRef</acronym> is a virus. Is your server compromised?</p>
       <p class="answer">A: No. But the windows installer uses <a href="http://nsis.sourceforge.net/Main_Page">the Nullsoft Scriptable Install System (NSIS)</a> version 2.18 (as of <acronym>JabRef</acronym> 2.1) which unfortunately creates installers that are thought to be viruses by some virus-scanners.</p>

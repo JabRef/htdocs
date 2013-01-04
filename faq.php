@@ -39,6 +39,10 @@
 &nbsp;  year = {<?php echo date("Y"); ?>},<br/>
 &nbsp;  url = {http://jabref.sf.net},<br/>
  }</code></p>
+
+      <p class="question">Q: Does JabRef support Chinese characters?</p>
+	  <p class="answer">A: Yes. Go to Options->Preferences->General->Default Encoding. Set it to UTF8. At &ldquo;Appearance&rdquo; set table font as simsun (or any other Chinese font). At &ldquo;General&rdquo;, you can change the UI language to Chinese. More information was available at <a href="http://yenlung.math.nccu.edu.tw/~yenlung/notes/latex_in_Windows.pdf">http://yenlung.math.nccu.edu.tw/~yenlung/notes/latex_in_Windows.pdf</a>, but the link is currently broken. </p>
+
       <p class="question">Q: BibTeX converts uppercase characters to lowercase in my title field. I know this can be prevented by wrapping uppercase letters in braces, e.g. &quot;{T}he life cycle of {A}tlantic salmon&quot;, but this is too much work. Can <acronym>JabRef</acronym> help?</p>
       <p class="answer">A: <acronym>JabRef</acronym> has a setting that will automatically wrap all capital letters for certain fields in { } - this will make sure they are preserved in the LaTeX output. Under <b>Options -> Preferences -> General -> File -> &ldquo;Store the following fields with braces around capital letters&rdquo;</b>, make sure the title field is included. To do this for several fields, write e.g. &ldquo;title;abstract&rdquo; (without the quotes). This setting automatically adds braces when saving the bib file, but you won't see the braces within <acronym>JabRef</acronym>.</p>
 

@@ -35,13 +35,13 @@
 
       <p>Contributing a new language to <acronym>JabRef</acronym> is easy since <acronym>JabRef</acronym> is prepared for multilanguage support. It only requires the creation of a new set of translation files - so-called property files. These are text files containing one text entry per line that can easily be generated using the java program Popeye a from a graphical user interface.</p>
 
-      <p>Furthermore, for a translation to be available within <acronym>JabRef</acronym>, a corresponding line must be added in the Java class GUIGlobals (found in the directory src/java/net/sf/jabref/GUIGlobals.java in the <acronym>JabRef</acronym> source code tree). The line is inserted in the static {} section where the map LANGUAGES is populated. The code must of course be recompiled after this modification.</p>
+      <p>Furthermore, for a translation to be available within <acronym>JabRef</acronym>, a corresponding line must be added in the <a href="https://sourceforge.net/p/jabref/code/ci/HEAD/tree/jabref/src/java/net/sf/jabref/GUIGlobals.java">Java class GUIGlobals</a> (found in the directory <a href="https://sourceforge.net/p/jabref/code/ci/HEAD/tree/jabref/src/java/net/sf/jabref/GUIGlobals.java">src/java/net/sf/jabref/GUIGlobals.java</a> in the <a href="https://sourceforge.net/p/jabref/code/"><acronym>JabRef</acronym> source code tree</a>). The line is inserted in the static {} section where the map LANGUAGES is populated. The code must of course be recompiled after this modification.</p>
 
       <p>If you are interested in translating <acronym>JabRef</acronym> or if you have suggestions or questions, please contact us using the <a href="https://lists.sourceforge.net/lists/listinfo/jabref-users">jabref-users mailing list</a>.</p>
 
       <h3 id="translation">List of translation files</h3>
 
-      <p>In the <acronym>JabRef</acronym> source code tree, the property files reside in the src/resource directory. For each language there are three files (denotes the country code for the language):</p>
+      <p>In the <acronym>JabRef</acronym> source code tree, the property files reside in the <a href="https://sourceforge.net/p/jabref/code/ci/HEAD/tree/jabref/src/resource/">src/resource directory</a>. For each language there are three files (denotes the country code for the language):</p>
       <ul>
 	<li>JabRef_.properties : main translation file</li>
 	<li>Menu_.properties : translation of menu items, marked up for mnemonic keys</li>

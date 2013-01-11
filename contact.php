@@ -99,7 +99,7 @@
       <h3 id="git">Git access</h3>
       <p>To browse or check out the <acronym>JabRef</acronym> source code from Git,
       take a look at our
-      <a href="sourceforge.net/p/jabref/code/">Git page</a>.</p>
+      <a href="http://sourceforge.net/p/jabref/code/">Git page</a>.</p>
 
       <h3 id="bugtracker">Bug reports</h3>
       <p>To register bug reports, go to the

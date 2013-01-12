@@ -32,7 +32,7 @@
    <resources>
       <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
       <j2se version="1.6+"/>
-      <jar href="JabRef-2.9.jar" main="true" download="eager"/>
+      <jar href="JabRef-2.9.2.jar" main="true" download="eager"/>
    </resources>
    <application-desc/>
 </jnlp> 

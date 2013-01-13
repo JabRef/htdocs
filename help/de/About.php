@@ -11,7 +11,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef Version 2.9.1dev</title>
+  <title>JabRef Version 2.9.2</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -20,10 +20,10 @@
     <?php include("../../navigation.php"); ?>
     <a href="Contents.php">Zur&uuml;ck zum Inhaltsverzeichnis</a>
 
-        <h1>JabRef Version 2.9.1dev</h1>
+        <h1>JabRef Version 2.9.2</h1>
 
         <div id="logo">
-        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2012
+        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2013
         </div>
 
         <p>JabRef ist frei verf&uuml;gbar unter den Bedingungen der

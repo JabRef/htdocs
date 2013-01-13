@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.9.2">2.9.2</a></li>
         <li class="single_item"><a href="#v2.9.1">2.9.1</a></li>
         <li class="single_item"><a href="#v2.9">2.9</a></li>
         <li class="single_item"><a href="#v2.9b2">2.9 beta 2</a></li>
@@ -81,6 +82,16 @@
     <div id="main">
 
       <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.9.2">
+      <h3>2.9.2 (January 12th, 2013)</h3>
+        <div class="version_desc">
+    <ul>
+     <li>Fixed handling of empty author parts in rare cases. Fixes <a href="https://sourceforge.net/p/jabref/bugs/1124">bug 1124</a>.</li>
+     <li>Fetchers work again: Import inspection dialog is not modal any more.</li>
+    </ul>
+    </div>
+    </div>
 
     <div class="aversion" id="v2.9.1">
       <h3>2.9.1 (January 1st, 2013)</h3>

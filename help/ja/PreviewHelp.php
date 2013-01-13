@@ -11,7 +11,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>Entry preview setup</title>
+  <title>項目プレビューの設定</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -21,18 +21,9 @@
     <a href="Contents.php">目次に戻る</a>
 
 
-    <h1>Entry preview setup</h1>
+    <h1>項目プレビューの設定</h1>
 
-    <p>The entry preview is created using
-    the same mechanism as used by the
-    <a href="CustomExports.php">Custom export filter</a> facility.
-    When previewed, an entry is processed using one of the two
-    alternative layouts (you can switch between the two layouts by
-    pressing F9) to produce HTML code which is displayed by the
-    preview panel. To modify the appearance and contents of the
-    preview you need to edit the preview layouts using the syntax
-    described in the help file on
-    <a href="CustomExports.php">Custom export filters</a>.</p>
+    <p>項目プレビューは、<a href="CustomExports.php">自作書出フィルタ</a>機能と同じ機構を使って生成されます。プレビューを行うと、項目は、2つのレイアウトのうち1つを使用して(2つのレイアウトはF9を押して切り替えられます)HTMLコードが生成され、プレビュー画面に表示されます。プレビューの外見と内容を修正するには、ヘルプファイル<a href="CustomExports.php">自作書出フィルタ</a>に記述のある文法を用いて、プレビューレイアウトを編集する必要があります。</p>
   <?php include("../../footer.php"); ?>
   </div>
 

@@ -89,7 +89,7 @@
 	  <p class="answer">A: Store jabref.jar on the drive. It can be opened directly on any computer offering a Java installation. Be sure to activate &ldquo;Load and Save preferences from/to jabref.xml on start-up (memory stick mode)&rdquo; in the Preferences->General. Besides, the <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">Webstart</a> is also an option.</p>
 
       <p class="question">Q: When an organization is provided as author, my BibTeX style doesn't recognize it. For instance, &ldquo;European Commission&rdquo; is converted to &ldquo;Commission, E.&rdquo;.</p>
-      <p class=answer">A: Use braces to tell BibTeX to keep your author field as is: <code>{European Commission}</code>.</p>
+      <p class="answer">A: Use braces to tell BibTeX to keep your author field as is: <code>{European Commission}</code>.</p>
 
       <p class="question">Q: Is there a FAQ on BibTeX?</p>
       <p class="answer">A: Yes, please look at &ldquo;Bibliographies and citations&rdquo; at the <a href="http://www.tex.ac.uk/cgi-bin/texfaq2html">UK List of TeX Frequently Asked Questions on the Web</a>. For German readers, there is the <a href="http://projekte.dante.de/DanteFAQ/LiteraturVerzeichnis">dante e.V. FAQ</a>.</p>

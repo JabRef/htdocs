@@ -11,7 +11,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>Customizing general fields</title>
+  <title>汎用フィールドの個人設定</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -21,24 +21,17 @@
     <a href="Contents.php">目次に戻る</a>
 
 
-    <h1>Customizing general fields</h1>
+    <h1>汎用フィールドの個人設定</h1>
 
-    <p>You can add an arbitrary number of tabs to the entry editor.
-    These will be present for all entry types. To customize these
-    tabs, go to "Options -&gt; Set up general fields".</p>
+    <p>項目エディタには、好きな数だけタブを追加することができます。これはどの項目型に対しても表示されます。タブを編集するには、「オプション→汎用フィールドを設定」を開いてください。</p>
 
-    <p>You specify one tab on each line. The line should start with
-    the name of the tab, followed by a colon (:), and the fields it
-    should contain, separated by semicolons (;).</p>
+    <p>一行ごとに一つのタブを指定します。各行の行頭にはタブ名を書いてコロン(:)を続け、その後にタブに入れるフィールドをセミコロン(;)で区切って書き入れます。</p>
 
-    <p>E.g.<br />
+    <p>例<br />
     <code>General:url;keywords;doi;pdf<br />
      Abstract:abstract;annote</code></p>
 
-    <p>which would give one tab named "General" containing the
-    fields <em>url</em>, <em>keywords</em>, <em>doi</em> and
-    <em>pdf</em>, and another tab named "Abstract" containing the
-    fields <em>abstract</em> and <em>annote</em>.</p>
+    <p>これは、<em>url</em>・<em>keywords</em>・<em>doi</em>・<em>pdf</em>の各フィールドを含む「General」と云う名のタブと、<em>abstract</em>・<em>annote</em>の各フィールドを含む「Abstract」と云う名のタブを生成します。</p>
   <?php include("../../footer.php"); ?>
   </div>
 

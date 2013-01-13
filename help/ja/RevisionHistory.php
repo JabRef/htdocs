@@ -23,7 +23,7 @@
 
   <h1>更新履歴</h1>
 
-  <p>Please refer to <a href=http://jabref.sourceforge.net/revisionhistory.php">http://jabref.sourceforge.net/revisionhistory.php</a> for a complete history in English.</p>
+  <p>完全な履歴については、<a href="../RevisionHistory.php">英語版のページ</a>を参照してください。</p>
 
   <?php include("../../footer.php"); ?>
   </div>

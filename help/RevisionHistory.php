@@ -22,6 +22,19 @@
 
 
   <h1>Revision history</h1>
+    <h3>2.9.3</h3>
+    <ul>
+     <li>Fixed handling of empty author parts in rare cases. Fixes <a href="https://sourceforge.net/p/jabref/bugs/1124">bug 1124</a>.</li>
+     <li>Fetchers work again: Import inspection dialog is not modal any more.</li>
+    </ul>
+    <h3>2.9.1</h3>
+    <ul>
+    <li>Command line option <code>--importToOpen</code> now also adds to an open tab when JabRef is launched.</li>
+    <li>Importing of entries works again. Fixes <a href="https://sourceforge.net/p/jabref/bugs/1121">bug 1121</a>.</li>
+    <li>Import inspection dialog is now modal.</li>
+    <li>Replaced Java launcher by <a href="http://launch4j.sourceforge.net/">launch4j</a>. Fixes bugs <a href="https://sourceforge.net/p/jabref/bugs/1100">1100</a>, <a href="https://sourceforge.net/p/jabref/bugs/1103">1103</a>, <a href="https://sourceforge.net/p/jabref/bugs/1123">1123</a>.</li>
+    <li>Menu font size can now be changed again. Help contents are also enlarged accordingly. Fixes <a href="https://sourceforge.net/p/jabref/bugs/1122">bug 1122</a>.</li>
+    </ul>
     <h3>2.9</h3>
     <ul>
     <li>Fixed bug: in OO/LO reference lists, entries may fall out when multiple entries with same
@@ -56,7 +69,7 @@
       <li>During file renaming: More illegal characters are removed (idea by Sarel Botha)</li>
       <li>Rudimentary support for IEEEtranBSTCTL added (patch 3582376 by Oscar Gustafsson)</li>
       <li>":" is not filtered from the BibTeX keys any more (patch 3582376 by Oscar Gustafsson)</li>
-      <li>Changed internal look&feel setting (based on patch 3580605)</li>
+      <li>Changed internal look&amp;feel setting (based on patch 3580605)</li>
       <li>Custom importers nested in jars should be supported now (bug 3582838)</li>
       <li>PDFContentImporter uses the DOI fetcher to fetch the BibTeX for the entry (if a DOI exists at the first page).</li>
       <li>Moved migration of legacy PDF/PS fields from legacy tools to clean up dialog.</li>

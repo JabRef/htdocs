@@ -41,23 +41,24 @@
       <li><a href="OwnerHelp.php">「owner」フィールド</a></li>
       <li><a href="ContentSelectorHelp.php">フィールド内容選択メニュー</a></li>
       <li><a href="JournalAbbreviations.php">学術誌名の短縮形</a></li>
+      <li><a href="SpecialFieldsHelp.php">特殊フィールド</a></li>
     </ul>
     
     <h2>項目の検索と整序</h2>
     <ul>
-      <li><a href="GroupsHelp.php">Help on using <em>Groups</em></a></li>
-      <li><a href="MarkingHelp.php">Marking entries</a></li>
-      <li><a href="SearchHelp.php">Searching in JabRef</a></li>
+      <li><a href="GroupsHelp.php"><em>グループ</em>を使うためのヘルプ</a></li>
+      <li><a href="MarkingHelp.php">項目の標識付け</a></li>
+      <li><a href="SearchHelp.php">JabRefでの検索</a></li>
     </ul>
 
     <h2>設定</h2>
     <ul>
       <li><a href="StringEditorHelp.php">文字列エディタ</a></li>
-      <li><a href="DatabaseProperties.php">Database properties window</a></li>
-      <li><a href="PreviewHelp.php">Entry preview setup</a></li>
-      <li><a href="LabelPatterns.php">Customizing the BibTex key generator</a></li>
+      <li><a href="DatabaseProperties.php">データベース特性ウィンドウ</a></li>
+      <li><a href="PreviewHelp.php">項目プレビューの設定</a></li>
+      <li><a href="LabelPatterns.php">BibTeXキー生成機構の個人用設定</a></li>
       <li><a href="CustomEntriesHelp.php">Customizing entry types</a></li>
-      <li><a href="GeneralFields.php">Customizing general fields</a></li>
+      <li><a href="GeneralFields.php">一般フィールドの個人用設定</a></li>
       <li><a href="Plugin.php">プラグインを使用してJabRefを拡張する</a></li>
     </ul>
 
@@ -69,8 +70,13 @@
       <li><a href="EndNoteFilters.php">EndNote読み込み/書き出しフィルタセット</a></li>
       <li><a href="OpenOfficeHelp.php">OpenOffice.orgでJabRef書誌情報を利用するには</a></li>
       <li><a href="ACMPortalHelp.php"><em>ACM</em> Portalから項目を取得する</a></li>
-      <li><a href="CiteSeerHelp.php"><em>CiteSeer</em>から項目を取得する</a></li>
+      <li><a href="CiteSeerHelp.php"><em>CiteSeerX</em>から項目を取得する</a></li>
+      <li><a href="DiVAtoBibTeXHelp.php"><em>DiVA</em>から項目を取得する</a></li>
+      <li><a href="DOItoBibTeXHelp.php"><em>DOI to BibTeX Converter</em>を使用して項目を取得する</a></li>
+      <li><a href="GoogleScholarHelp.php"><em>Google Scholar</em>から項目を取得する</a></li>
+
       <li><a href="IEEEXploreHelp.php"><em>IEEExplore</em>から項目を取得する</a></li>
+      <li><a href="ISBNtoBibTeXHelp.php"><em>ISBN to BibTeX Converter</em>を使用して項目を取得する</a></li>
       <li><a href="MedlineHelp.php">Fetching entries from <em>Medline</em></a></li>
       <li><a href="JSTOR.php"><em>JStor</em> 検索</a></li>
       <li><a href="ScienceDirect.php"><em>ScienceDirect</em> 検索</a></li>
@@ -78,7 +84,7 @@
       <li><a href="SQLExport.php">Export to an External SQL Database</a></li>
       <li><a href="XMPHelp.php">XMP metadata support in JabRef</a></li>
       <li><a href="CommandLine.php">Command line options</a></li>
-      <li><a href="RemoteHelp.php">Remote operations</a></li>
+      <li><a href="RemoteHelp.php">リモート操作</a></li>
     </ul>
 
     <h2>その他</h2>

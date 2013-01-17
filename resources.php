@@ -19,7 +19,8 @@
       <ul>
         <li><a href="#OOtool">JabRef formatter</a></li>
         <li><a href="#PocketBib">PocketBib</a></li>
-		<li><a href="#bibtex4word">Bibtex4Word</a></li>
+	<li><a href="#bibtex4word">Bibtex4Word</a></li>
+	<li><a href="#feinerleiser">Feinerleiser</a></li>
       </ul>
 
       <h3 id="plugins_rightpanel"><a href="#plugins">Plugins</a></h3>
@@ -84,6 +85,13 @@
 	  <p><em>by Mike Brookes</em></p>
 	  <p>Bibtex4Word is an add-in for Microsoft Word that allows the citation of references and the insertion of a bibliography into your document using your choice of formatting style. It is lightweight, transparent and does not mess up your documents.</p>
 	  <a href="http://www.ee.ic.ac.uk/hp/staff/dmb/perl/index.html">Bibtex4Word</a>
+
+	<h3 id="feinerleiser">Feinerleiser</h3>
+	<p><em>by Niklas Alt</em></p>
+	<p>Feinerleiser is a tool for improving the JabRef-LibreOffice integration
+	when writing for the humanities. This tool can be run to finalize a document,
+	providing citation features that are not supported by JabRef itself.</p>
+	<a href="http://www.sourceforge.net/projects/feinerleiser/">Feinerleiser</a>
 
       <h2 id="plugins">Plugins</h2>
 

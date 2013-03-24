@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<?php
+  header('Content-type: application/xhtml+xml; charset=utf-8');
+
+  // DO NOT EDIT BY HAND
+  // This file is generated from jabref/src/help.
+  // Run generate-htdocs-help-from-jabref-src-help.pl in the root directory
+  // of the JabRef repository to regenerate the htdocs out of JabRef's help.
+?>
+<head>
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+  <title>CiteSeerから取り込む</title>
+  <link href="/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div id="container">
+    <?php include("../../navigation.php"); ?>
+    <a href="Contents.php">目次に戻る</a>
+
+
+    <h1>CiteSeerから取り込む</h1>
+
+    <p>この機能を使うには、<b>検索→ウェブ検索</b>を選択すれば、操作盤が側面に表示されますので、そのドロップダウンメニューから<b>CiteSeerX</b>を選択してください。</p>
+
+    <h2>CiteSeerから項目を取り込む</h2>
+
+    <p>JabRefは、特定の文献についての情報をCiteSeerデータベースからダウンロードすることができます。この手順を開始するには、データベースに新規項目を追加し、citeseerurlフィールドに、CiteSeer上の当該内容ページへのリンクを置いてください。citeseerurlフィールドは、DDDDDDを数字の列として、以下の書式で書かなくてはなりません。</p>
+
+    <p>http://citeseer.ist.psu.edu/DDDDDD[.html], または<br />
+    oai:CiteSeerPSU:DDDDDD, または<br />
+    DDDDDD</p>
+
+    <p>CiteSeer項目の数字列(DDDDDD)を見つけるには、http://citeseer.ist.psu.edu/<b>名前年タイトル</b>.htmlというアドレスのその文献の文書ページに行き、この文献の(更新)リンクをクリックしてください。更新リンクのURLにこの文献の数値IDが含まれています。</p>
+
+    <p>citeseerurlフィールドを埋めると、<b>BibTeX→CiteSeerからフィールドを取り込む</b>を選択してCiteSeerの各フィールドをダウンロードすることができます。更新したい行を選択していることを確かめてください。</p>
+
+    <h2>文献データベースを生成する</h2>
+
+    <p>いくつかの参考文献の組に対して、これらの構成文献を引用している文書の一覧を生成することができます。この機能を利用するには、データベース中の各文献に、<b>CiteSeerから項目を取り込む</b>で指定した書式に則ったcitesserurlフィールドが含まれている必要があります。この機能を使用するには、<b>ウェブ検索→引用をCiteSeerから取得</b>を選択してください。</p>
+
+    <h2>プロキシサーバーを使用する</h2>
+
+    <p>httpプロクシサーバーを使用する必要があるときには、以下のように、実行時にサーバー名とポート番号を渡してください。</p>
+
+    <p><code>java -Dhttp.proxyHost="ホスト名"
+    -Dhttp.proxyPort="ポート番号"</code></p>
+
+    <p>これらの環境設定は、<a href="http://java.sun.com/j2se/1.4.2/docs/guide/net/properties.html">Sun J2SE documentation</a>で説明されています。</p>
+
+  <?php include("../../footer.php"); ?>
+  </div>
+
+</body>
+</html>

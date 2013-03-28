@@ -25,11 +25,6 @@
 
     </div>
 
-	<div id="languagechooser">
-		<a href="faq_es.php"><img src="/images/es.png"></a>
-		<a href="#"><img src="/images/us.png"></a>
-	</div>
-
     <div id="main">
 
       <h2>Frequently Asked Questions</h2>

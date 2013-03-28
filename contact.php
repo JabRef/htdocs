@@ -74,6 +74,8 @@
 	<span class="developer">Fr&eacute;d&eacute;ric Darboux <img src="images/stock_person.png" alt="translator" title="French (fr) translator" /></span>
 	<span class="developer">Ambrogio Oliva <img src="images/stock_person.png" alt="translator" title="Italian (it) translator" /></span>
 	<span class="developer">Gert Renckens <img src="images/stock_person.png" alt="translator" title="Dutch (nl) translator" /></span>
+	<span class="developer">Jorge Tornero <img src="images/stock_person.png" alt="translator" title="Spanish (es) translator" /></span>
+	<span class="developer">Aradenatorix Veckhom <img src="images/stock_person.png" alt="translator" title="Spanish (es) translator" /></span>
 	<span class="developer">Dominik Wa&szlig;enhoven <img src="images/stock_person.png" alt="translator" title="German (de) translator" /></span>
 	<span class="developer">Wenbo Yang <img src="images/stock_person.png" alt="translator" title="Simplified Chinese (zh) translator" /></span>
 	<span class="developer">Koji Yokota <img src="images/stock_person.png" alt="translator" title="Japanese (ja) translator" /></span>

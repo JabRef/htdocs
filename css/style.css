@@ -157,6 +157,12 @@ h4#contributors  {
     width:110px;
 }
 
+#languagechooser {
+	float: right;
+	position: relative;
+	padding-right: 14px;
+}
+
 #main {
     text-align:justify;
     padding-left:12px;

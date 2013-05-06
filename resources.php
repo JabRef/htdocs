@@ -21,6 +21,7 @@
         <li><a href="#PocketBib">PocketBib</a></li>
 	<li><a href="#bibtex4word">Bibtex4Word</a></li>
 	<li><a href="#feinerleiser">Feinerleiser</a></li>
+	<li><a href="#bibsync">BibSync</a></li>
       </ul>
 
       <h3 id="plugins_rightpanel"><a href="#plugins">Plugins</a></h3>
@@ -92,6 +93,12 @@
 	when writing for the humanities. This tool can be run to finalize a document,
 	providing citation features that are not supported by JabRef itself.</p>
 	<a href="http://www.sourceforge.net/projects/feinerleiser/">Feinerleiser</a>
+
+	<h3 id="bibsync">BibSync</h3>
+	<p><em>by Daniel Mendler</em></p>
+	<p>BibSync is a tool to synchronize your paper database with a BibTeX file, and supports
+	synchronization with DOI and arXiv.</p>
+	<a href="https://github.com/minad/bibsync">BibSync</a>
 
       <h2 id="plugins">Plugins</h2>
 

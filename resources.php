@@ -17,7 +17,7 @@
 
       <h3 id="tools_rightpanel"><a href="#exttools">External tools</a></h3>
       <ul>
-        <li><a href="#OOtool">JabRef formatter</a></li>
+        <li><a href="#OOtool">Export-Filter Editor</a></li>
         <li><a href="#PocketBib">PocketBib</a></li>
 	<li><a href="#bibtex4word">Bibtex4Word</a></li>
 	<li><a href="#feinerleiser">Feinerleiser</a></li>
@@ -66,14 +66,19 @@
 
       <h2 id="exttools">External tools</h2>
 
-      <h3 id="OOtool">JabRef formatter</h3>
+      <h3 id="OOtool">Export-Filter Editor</h3>
       <p><em>by Felix Wilke</em></p>
 
-      <p>The JabRef formatter is a LibreOffice spreadsheet that lets you build
-      HTML, RTF or OpenOffice/LibreOffice export filters, as well as jstyle files
-      for direct integration with OpenOffice or LibreOffice.</p>
+      <p>Using this tool you can easily create a custom export filter for JabRef to build you own bibliography style.</p>
+      <p>It supports:
+      <ul><li>HTML Export Filter</li>
+      <li>RTF Export Filter</li>
+      <li>OpenOffice/ LibreOffice Style File</li>
+      <li>Saving the filter for later refinements</li>
+      </ul>
+      </p>
 
-      <a href="tools/jabref_formatter.ods">JabRef formatter</a>
+      <a href="https://sourceforge.net/projects/efe/?source=dlp">Export-Filter Editor</a>
 
       <h3 id="PocketBib">PocketBib</h3>
       <p><em>by Graham Dennis</em></p>

@@ -67,6 +67,7 @@
 	<span class="developer">Pau Artigas Vidal<img src="images/stock_person.png" alt="Contributor" title="" /></span>
 	<span class="developer">David Weitzman <img src="images/stock_person.png" alt="Contributor" title="" /></span>
 	<span class="developer">Seb Wills <img src="images/stock_person.png" alt="Contributor" title="several patches" /></span>
+	<span class="developer">Igor Steinmacher <img src="images/stock_person.png" alt="Contributor" title="several patches" /></span>
 
         <h4 id="translators">Translators</h4>
 	<span class="developer">Morten O. Alver <img src="images/stock_person.png" alt="translator" title="Norwegian (no) translator" /></span>

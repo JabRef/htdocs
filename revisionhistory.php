@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.10b2">2.10 beta 2</a></li>
         <li class="single_item"><a href="#v2.10b">2.10 beta</a></li>
         <li class="single_item"><a href="#v2.9.2">2.9.2</a></li>
         <li class="single_item"><a href="#v2.9.1">2.9.1</a></li>
@@ -83,6 +84,20 @@
     <div id="main">
 
     <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.10b2">
+      <h3>Version 2.10 beta 2 (June 19th, 2013)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>Patched Windows install script to avoid wrong placement of Start menu items.</li>
+            <li>Reintroduced right-click on type label in entry editor to change entry type.</li>
+            <li>Fixed compatibility issue with OpenOffice plugin.</li>
+            <li>Added Russian as language.</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1160">bug 1160</a>: Certain DOI references with &ldquo;&lt;&rdquo; characters are not processed correctly (by Jonathan Powell).</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1153">bug 1153</a>: Bug in user-specific file paths stored in @comment (by  Thomas Arildsen).</li>
+          </ul>
+        </div>
+    </div>
 
     <div class="aversion" id="v2.10b">
       <h3>Version 2.10 beta (March 28th, 2013)</h3>

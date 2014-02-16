@@ -90,7 +90,7 @@
       <h3>Version 2.10 beta 3 (February 12th, 2014)</h3>
         <div class="version_desc">
           <ul>
-            <li>Find unlinked files tool doesn't always use PDF content importer any more, but the dialog opened when a file is dropped into JabRef</li>
+            <li>Fix GoogleScholarFetcher (<a href="https://sourceforge.net/p/jabref/patches/207">patch 207</a>)</li>
             <li>Line breaks in BibTeX fields (e.g., abstract and review) are now kept.</li>
             <li>Fixed completeness indicator in main table for entries with crossrefs and either/or required fields.</li>
             <li>Fixed [shorttitle] and [veryshorttitle] key generator markers, so they remove punctuation as described in the documentation.</li>

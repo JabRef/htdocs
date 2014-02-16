@@ -3,7 +3,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF8" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <title>JabRef reference manager</title>
   <link href='css/style.css' rel='stylesheet' type='text/css' />
 </head>

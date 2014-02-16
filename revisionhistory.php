@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.10b3">2.10 beta 3</a></li>
         <li class="single_item"><a href="#v2.10b2">2.10 beta 2</a></li>
         <li class="single_item"><a href="#v2.10b">2.10 beta</a></li>
         <li class="single_item"><a href="#v2.9.2">2.9.2</a></li>
@@ -84,6 +85,18 @@
     <div id="main">
 
     <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.10b3">
+      <h3>Version 2.10 beta 3 (February 12th, 2014)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>Find unlinked files tool doesn't always use PDF content importer any more, but the dialog opened when a file is dropped into JabRef</li>
+            <li>Line breaks in BibTeX fields (e.g., abstract and review) are now kept.</li>
+            <li>Fixed completeness indicator in main table for entries with crossrefs and either/or required fields.</li>
+            <li>Fixed [shorttitle] and [veryshorttitle] key generator markers, so they remove punctuation as described in the documentation.</li>
+          </ul>
+        </div>
+    </div>
 
     <div class="aversion" id="v2.10b2">
       <h3>Version 2.10 beta 2 (June 19th, 2013)</h3>

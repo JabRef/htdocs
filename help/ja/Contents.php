@@ -42,6 +42,7 @@
       <li><a href="ContentSelectorHelp.php">フィールド内容選択メニュー</a></li>
       <li><a href="JournalAbbreviations.php">学術誌名の短縮形</a></li>
       <li><a href="SpecialFieldsHelp.php">特殊フィールド</a></li>
+      <li><a href="StringsHelp.php">BibTeX文字列</a></li>
     </ul>
     
     <h2>項目の検索と整序</h2>

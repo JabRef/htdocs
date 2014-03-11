@@ -39,10 +39,11 @@
       <li><a href="FileLinks.php">Liens de fichiers externes</a></li>
       <li><a href="ExternalFiles.php">Liens PDF/PS/URL/DOI dans JabRef</a></li>
       <li><a href="TimeStampHelp.php">Horodatage des entr&eacute;es</a></li>
-      <li><a href="OwnerHelp.php">Le champ 'owner' (propri&eacute;taire)</a></li>
+      <li><a href="OwnerHelp.php">Le champ &lsquo;owner&rsquo; (propri&eacute;taire)</a></li>
       <li><a href="ContentSelectorHelp.php">S&eacute;lecteur de contenu de champ</a></li>
       <li><a href="JournalAbbreviations.php">Abr&eacute;viations de journaux</a></li>
       <li><a href="SpecialFieldsHelp.php">Champs sp&eacute;ciaux</a></li>
+      <li><a href="StringsHelp.php">Cha&icirc;nes BibTeX</a></li>
     </ul>
 
     <h2>Recherche et tri des entr&eacute;es</h2>

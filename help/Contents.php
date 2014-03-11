@@ -38,10 +38,11 @@
       <li><a href="FileLinks.php">External file links</a></li>
       <li><a href="ExternalFiles.php">PDF/PS/URL/DOI links in JabRef</a></li>
       <li><a href="TimeStampHelp.php">Entry time stamps</a></li>
-      <li><a href="OwnerHelp.php">The 'owner' field</a></li>
+      <li><a href="OwnerHelp.php">The &lsquo;owner&rsquo; field</a></li>
       <li><a href="ContentSelectorHelp.php">Field content selector</a></li>
       <li><a href="JournalAbbreviations.php">Journal abbreviations</a></li>
       <li><a href="SpecialFieldsHelp.php">Special Fields</a></li>
+      <li><a href="StringsHelp.php">Bibtex Strings</a></li>
     </ul>
     
     <h2>Finding and sorting entries</h2>

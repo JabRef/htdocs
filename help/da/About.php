@@ -11,7 +11,7 @@
 ?>
 <head>
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-  <title>JabRef version 2.9.2</title>
+  <title>JabRef version 2.10dev</title>
   <link href="/css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -20,10 +20,10 @@
     <?php include("../../navigation.php"); ?>
     <a href="Contents.php">Back to contents</a>
 
-        <h1>JabRef version 2.9.2</h1>
+        <h1>JabRef version 2.10dev</h1>
 
         <div id="logo">
-        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2013
+        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2014
         </div>
 
         <p>JabRef kan frit distribueres under betingelserne i
@@ -73,10 +73,11 @@
         Ervin Kolenovic,
         Krzysztof A. Ko&#347;ciuszkiewicz,
         Christian Kopf,
-        Felix Langner,
-        Stephan Lau,
+        Jan Kubovy,
         Jeffrey Kuhn,
         Uwe Kuehn,
+        Felix Langner,
+        Stephan Lau,
         Alex Montgomery,
         Saverio Mori,
         Ambrogio Oliva,

@@ -23,7 +23,7 @@
         <h1>JabRef versi 2.9.2</h1>
 
         <div id="logo">
-        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2013
+        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2014
         </div>
 
         <p>JabRef dapat disebarkan tanpa bayar mengikut syarat dari
@@ -73,10 +73,11 @@
         Ervin Kolenovic,
         Krzysztof A. Ko&#347;ciuszkiewicz,
         Christian Kopf,
-        Felix Langner,
-        Stephan Lau,
+        Jan Kubovy,
         Jeffrey Kuhn,
         Uwe Kuehn,
+        Felix Langner,
+        Stephan Lau,
         Alex Montgomery,
         Saverio Mori,
         Ambrogio Oliva,

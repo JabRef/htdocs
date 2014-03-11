@@ -23,7 +23,7 @@
         <h1>JabRef 第 2.9.2 版</h1>
 
         <div id="logo">
-        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2013
+        <img src="../../images/JabRef-icon-48.png" alt="JabRef logo"/><br/>&copy; 2003-2014
         </div>
 
         <p>JabRefはフリーソフトウェアです。JabRefは、Free Software Foundationが公開しているGNU <a href="License.php">General Public License</a>のversion 2か、(お望みであれば)それよりも新しい版の下で自由に配布し修正することが可能です。</p>
@@ -71,10 +71,11 @@
         Ervin Kolenovic,
         Krzysztof A. Ko&#347;ciuszkiewicz,
         Christian Kopf,
-        Felix Langner,
-        Stephan Lau,
+        Jan Kubovy,
         Jeffrey Kuhn,
         Uwe Kuehn,
+        Felix Langner,
+        Stephan Lau,
         Alex Montgomery,
         Saverio Mori,
         Ambrogio Oliva,

@@ -27,14 +27,18 @@
       <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">
       <img src="images/RunJabRef.png" alt="Run JabRef instantly" /></a>
 
-      <a href="http://sourceforge.net/projects/jabref/files/jabref/2.9.2"><img src="images/Download-stable.png" alt="Download current stable version" /></a>
+      <a href="http://sourceforge.net/projects/jabref/files/jabref/2.10"><img src="images/Download-stable.png" alt="Download current stable version" /></a>
 
-<!-- currently, there is a beta version -->
+<!-- currently, there is no beta version
       <a href="download.php#beta"><img src="images/Download-beta.png" alt="Download latest beta version" /></a>
+-->
 
       <h3 id="News">News</h3>
 
       <ul class="history_column">
+
+	<li class="item">March 11th, 2014</li>
+	<li class="item_desc">Version 2.10</li>
 
 	<li class="item">February 12th, 2014</li>
 	<li class="item_desc">Version 2.10 beta 3</li>
@@ -111,25 +115,25 @@
         <li class="feature_desc">
 	  Detailed editing of <acronym>BibTeX</acronym> entries.
 	</li>
-	
+
 	<li class="feature">Search functions</li>
         <li class="feature_desc">
           Search a pattern in the whole bibliography.
         </li>
-	
+
 	<li class="feature">Classification of entries</li>
         <li class="feature_desc">
           You can group entries explicitly, by keywords or any
           other fields.
         </li>
-	
+
 	<li class="feature">Import of various formats</li>
         <li class="feature_desc">
           BibTeXML, CSA, Refer/Endnote, ISI Web of Science,
           SilverPlatter, Medline/Pubmed (xml), Scifinder, OVID,
           INSPEC, Biblioscape, Sixpack, JStor and RIS.
         </li>
-	
+
 	<li class="feature">Built-in and custom export formats</li>
         <li class="feature_desc">
           HTML, Docbook, BibTeXML, MODS, RTF, Refer/Endnote and
@@ -140,27 +144,27 @@
         <li class="feature_desc">
           You can add your own fields to any <acronym>BibTeX</acronym> entry type.
         </li>
-	
+
 	<li class="feature">Customization of the <acronym>JabRef</acronym> interface</li>
         <li class="feature_desc">
           Fonts, displayed fields, etc.
         </li>
-	
+
 	<li class="feature">Integrates to your environment</li>
         <li class="feature_desc">
           Launch external applications: PDF/PS viewers, web browser, insert citations into
           LyX, Kile, LatexEDitor, Emacs, Vim and WinEdt
         </li>
-	
+
 	<li class="feature">Automatic Key generation</li>
         <li class="feature_desc">
           <acronym>BibTeX</acronym> keys can be automatically generated in a customizable way
           from document data, e.g. using author names, title and year.
         </li>
-	
+
 	<li class="feature">Search Medline, CiteseerX, Google Scholar, IEEEXplore, and arXiv</li>
         <li class="feature_desc">Entries can be searched in external databases and BibTeX entries can be fetched from there</li>
-	
+
 	<li class="feature">Support for XMP Metadata in PDFs</li>
         <li class="feature_desc">Improve the workflow of sharing PDFs and bibliography information</li>
 

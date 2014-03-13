@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.10">2.10</a></li>
         <li class="single_item"><a href="#v2.10b3">2.10 beta 3</a></li>
         <li class="single_item"><a href="#v2.10b2">2.10 beta 2</a></li>
         <li class="single_item"><a href="#v2.10b">2.10 beta</a></li>
@@ -85,6 +86,18 @@
     <div id="main">
 
     <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.10">
+      <h3>Version 2.10 (March 11th, 2014)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>Made IEEEXploreFetcher author parsing work again.</li>
+            <li>Added a few more characters in the HTML/Unicode to LaTeX conversion.</li>
+            <li>Find unlinked files tool doesn't always use PDF content importer any more, but the dialog opened when a file is dropped into JabRef.</li>
+            <li>Uninstaller doesn't delete whole directory any more. Fixes bugs <a href="https://sourceforge.net/p/jabref/bugs/1142">1142</a>, <a href="https://sourceforge.net/p/jabref/bugs/1175">1175</a>, <a href="https://sourceforge.net/p/jabref/bugs/1212">1212</a>.</li>
+          </ul>
+        </div>
+    </div>
 
     <div class="aversion" id="v2.10b3">
       <h3>Version 2.10 beta 3 (February 12th, 2014)</h3>

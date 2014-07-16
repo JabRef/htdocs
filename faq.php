@@ -137,13 +137,13 @@ distribution, so we cannot give exact advise for everybody. </p>
       <h3 id="developers">Developers</h3>
 
       <p class="question">Q: How can I join the <acronym>JabRef</acronym> project?</p>
-      <p class="answer">A: Sign up with sourceforge and write an email to our project leader Morten O. Alver. Good ways to start with the project is to help with fixing bugs (maybe some that trouble you yourself ;-), writing FAQs, helping users in the forum and translating <acronym>JabRef</acronym> into another language.</p>
+      <p class="answer">A: Subscribe to the <a href="https://lists.sourceforge.net/lists/listinfo/jabref-devel">developers mailing list</a> and write an email. Good ways to start with the project is to help with fixing bugs (some of them are listed at <a href="https://sourceforge.net/p/jabref/bugs/">sourceforge bug tracker</a>, and maybe you have some that trouble yourself ;-), writing FAQs, helping users in the forum and translating <acronym>JabRef</acronym> into another language.</p>
 
       <p class="question">Q: I would like to help translating JabRef to another language. How do I get started?</p>
       <p class="answer">A: Please see our page about <a href="translation.php">translating JabRef</a>.</p>
 
-      <p class="question">Q: I have a patch that I want to contribute. Where can I do that?</p>
-      <p class="answer">A: Please send patches to the Patch-Tracker on Sourceforge and write a quick entry on the user or developer list.</p>
+      <p class="question">Q: I want send a patch. Where can I do that?</p>
+      <p class="answer">A: Please go to our <a href="http://github.com/JabRef/jabref">GitHub page</a>, fork our repo and pull your contribution, and/or write an entry to the developers' list.</p>
 
       <p class="question">Q: What is the branching strategy used in <acronym>JabRef</acronym>'s Git repository?</p>
       <p class="answer">A: The master branch is used for developments targeted for the next release. When we release the first beta of a new version, e.g. 2.8, we make a branch (beta_2.8). From that moment, all changes that are to be part of the 2.8 version must be made in the branch, while changes that are for the following version must be made in the master branch. This lets us polish the 2.8 version while at the same time checking in features for version 2.9. When 2.8 is finished, it is built from the beta_2.8 branch, and then all changes that have been made in the beta_2.8 branch since it was created are merged into the master. At this point the master has all the changes of the 2.8 version, in addition to whatever has been done in the master in the meantime.</p>

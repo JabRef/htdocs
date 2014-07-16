@@ -38,7 +38,7 @@
     <h3 id="dev">Developer versions</h3>
     <p>
       To browse or check out the <acronym>JabRef</acronym> developer source code from Git, take a look at our
-      <a href="http://sourceforge.net/p/jabref/code/">Git page</a>.
+      <a href="https://github.com/JabRef/jabref">Github page</a>.
     </p>
 
     </div>

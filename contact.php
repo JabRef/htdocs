@@ -80,7 +80,7 @@
 	<span class="developer">Dominik Wa&szlig;enhoven <img src="images/stock_person.png" alt="translator" title="German (de) translator" /></span>
 	<span class="developer">Wenbo Yang <img src="images/stock_person.png" alt="translator" title="Simplified Chinese (zh) translator" /></span>
 	<span class="developer">Koji Yokota <img src="images/stock_person.png" alt="translator" title="Japanese (ja) translator" /></span>
-
+	<span class="developer">Igor Steinmacher<img src="images/stock_person.png" alt="translator" title="Portuguese (pt-BR) translator" /></span>
       </div>
 
     </div>
@@ -113,12 +113,11 @@
       <a href="http://sourceforge.net/p/jabref/feature-requests/">Feature request page</a>.</p>
 
       <h3 id="patches">Patches</h3>
-      <p>If you have developed an improvement or bugfix
-      for <acronym>JabRef</acronym>, you can post it in the
-      <a href="http://sourceforge.net/p/jabref/patches/">Patches page</a>
-      in order to share it with other users and to make it available
+      <p>We migrated our source code to <a href="https://github.com/JabRef/jabref">Github</a>. 
+      If you want to place a code contribution (improvement or bugfix) for <acronym>JabRef</acronym>, 
+      please send a pull request to our <a href="https://github.com/JabRef/jabref">github repo</a>
       for possible inclusion in future versions of <acronym>JabRef</acronym>.
-      Please also let us know on the <acronym>JabRef</acronym> mailing list about your new code.</p>
+      If you want, also let us know on the <acronym>JabRef</acronym> mailing list about your new code.</p>
 
       <h3 id="donations">Donations</h3>
       <p>Finally, if you enjoy using <acronym>JabRef</acronym> and would like to make

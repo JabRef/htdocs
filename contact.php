@@ -18,7 +18,7 @@
       <h3>Contact</h3>
 
       <span class="single_item"><a href="#mailinglist">Mailing lists</a></span>
-      <span class="single_item"><a href="#git">Git</a></span>
+      <span class="single_item"><a href="#git">Code repository</a></span>
       <span class="single_item"><a href="#bugtracker">Bug tracker</a></span>
       <span class="single_item"><a href="#featurerequest">Feature request</a></span>
       <span class="single_item"><a href="#patches">Patches</a></span>
@@ -99,10 +99,10 @@
       <a href="https://lists.sourceforge.net/lists/listinfo/jabref-users"><acronym>JabRef</acronym> user mailing list</a>.
       An overview on all available mailinglists is provided at our <a href="http://sourceforge.net/p/jabref/mailman/">mailing list page</a>.</p>
 
-      <h3 id="git">Git access</h3>
-      <p>To browse or check out the <acronym>JabRef</acronym> source code from Git,
+      <h3 id="git">Repository access</h3>
+      <p>To browse or clone the <acronym>JabRef</acronym> source code from Git,
       take a look at our
-      <a href="http://sourceforge.net/p/jabref/code/">Git page</a>.</p>
+      <a href="https://github.com/JabRef/jabref">Github page</a>.</p>
 
       <h3 id="bugtracker">Bug reports</h3>
       <p>To register bug reports, go to the

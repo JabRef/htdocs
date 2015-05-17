@@ -148,7 +148,7 @@
 	<li class="feature">Translations</li>
         <li class="feature_desc">
           <acronym>JabRef</acronym> menus and dialog boxes are translated into
-          Chinese (simplified), Danish, English, French, German, Indonesian, Italian, Japanese, Norwegian, Turkish and Vietnamese.
+          Chinese (simplified), Danish, English, French, German, Indonesian, Italian, Japanese, Norwegian, Spanish, Turkish and Vietnamese.
         </li>
 
 	<li class="feature">Plugin functionality</li>

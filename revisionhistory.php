@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.11b">2.11 beta</a></li>
         <li class="single_item"><a href="#v2.10">2.10</a></li>
         <li class="single_item"><a href="#v2.10b3">2.10 beta 3</a></li>
         <li class="single_item"><a href="#v2.10b2">2.10 beta 2</a></li>
@@ -86,6 +87,66 @@
     <div id="main">
 
     <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.11b">
+      <h3>Version 2.11 beta (May 17th, 2015)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>Some UI updates (mainly removing unnecessary boundaries)</li>
+            <li>Feature: Gridlines are now optional (and disabled by default)</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1248">bug 1248</a>: Key bindings not modified</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/876">bug 876</a>: Windows 7/8/10 - Pinning Jabref to the taskbar</li>
+            <li>Feature: Option to change the table row height padding</li>
+            <li>Feature: Make it possible to hide the toolbar</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1270">bug 1270</a>: Cleanup entries error 3</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/919">bug 919</a>: Accents don't export to RTF (by ruy.takata)</li>
+            <li>Change the CrossRef content negotiation for bibtex DOI import (by sheffien)</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1253">bug 1253</a>: Cleanup entries error 2 (by ruy.takata)</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1213">bug 1213</a> (sourceforge): Fix encoding for DOI import</li>
+            <li><a href="https://sourceforge.net/p/jabref/feature-requests/809">feature 809</a>: import pubmed central id (pmc) field from medline</li>
+            <li>Fix undoing Cleanup/Convert to Biblatex</li>
+            <li>Adapted pattern to parse DBLP entries</li>
+            <li>Partial fix for <a href="https://sourceforge.net/p/jabref/bugs/913">bug 913</a>: fixed export for .ods and .sxc (by yaragg)</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1240">bug 1240</a>: Accepting string with length of one character (by lhaddad).</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/958">bug 958</a>: ArrayIndexOutOfBoundsException on "Content Selector Dialog"</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/949">bug 949</a>: Exception properly logged</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/950">bug 950</a>: NullPointerException on "Manage custom imports"</li>
+            <li><a href="https://sourceforge.net/p/jabref/feature-requests/850">feature 850</a>: Keyboard shortcut for 'Cleanup entries' (by eduardogreco)</li>
+            <li>Change default behaviour to be more non-invasive: timestamps and owners are NOT set by default per entry.</li>
+            <li>"Open Folder" works again</li>
+            <li>newline separator can now be configured globally</li>
+            <li><a href="https://sourceforge.net/p/jabref/feature-requests/847">feature 847</a>: Adds title case as a case changer</li>
+            <li><a href="https://sourceforge.net/p/jabref/feature-requests/841">feature 841</a>: Support for multiple file columns (by noravanq)</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1176">bug 1176</a>: automatic bibtexkey generation for authors containing/ending with and in their name</li>
+            <li>Saving order of entries can now be configured per database</li>
+            <li>Improved XMP Privacy (<a href="https://github.com/JabRef/jabref/pull/8">pull request #8</a>)</li>
+            <li>Support FindFullText with ACS DOIs (<a href="https://github.com/JabRef/jabref/pull/9">pull request #9</a>)</li>
+            <li>Fixes groups and adds optional 2.9.2 save ordering (<a href="https://github.com/JabRef/jabref/pull/10">pull request #10</a>)</li>
+            <li>Fixes <a href="https://sourceforge.net/p/jabref/bugs/880">bug 880</a> "PubMed Import broken" (<a href="https://github.com/JabRef/jabref/pull/11">pull request #11</a> by vegeziel)</li>
+            <li>Fixes <a href="https://sourceforge.net/p/jabref/bugs/959">bug 959</a> "StringIndexOutOfBoundsException with invalid Preview text" (<a href="https://github.com/JabRef/jabref/pull/13">pull request #13</a> by IngvarJackal)</li>
+            <li>Fixes <a href="https://sourceforge.net/p/jabref/bugs/960">bug 960</a> "FileNotFoundException in Journal abbreviations window" (<a href="https://github.com/JabRef/jabref/pull/13">pull request #13</a> by IngvarJackal)</li>
+            <li>Make (un)abbreviating journal titles also work on the journaltitle field</li>
+            <li>Fix edits getting lost in Biblatex mode</li>
+            <li>Fix error when setting a previously unset field via the source panel of the entry editor</li>
+            <li>Improved BibLatex support (alias fields, option to convert old entries to the new format via the cleanup menu)</li>
+              <ul>
+                <li>Fixes <a href="https://sourceforge.net/p/jabref/bugs/1087">bug 1087</a> "jabref does not follow biblatex specification"</li>
+                <li>Fixes <a href="https://sourceforge.net/p/jabref/bugs/1014">bug 1014</a> 'journal' not recognized as alias for 'journaltitle''</li>
+                <li>Fixes <a href="https://sourceforge.net/p/jabref/bugs/874">bug 874</a> Support of biblatex "date" field</li>
+                <li>Fixes bug that prevented the secondary optional fields to update properly in the "Customize entry fields" dialog (in BibLatex mode)</li>
+              </ul>
+            <li>Added special fields 'Printed' and 'Read status', thereby implementing (at least partially):</li>
+              <ul>
+                <li><a href="https://sourceforge.net/p/jabref/feature-requests/762">feature 762</a> Printed attribute</li>
+                <li><a href="https://sourceforge.net/p/jabref/feature-requests/692">feature 692</a> Marking of new entries and often read entries</li>
+                <li><a href="https://sourceforge.net/p/jabref/feature-requests/685">feature 685</a> Highlight new entries that were "forgotten"</li>
+                <li><a href="https://sourceforge.net/p/jabref/feature-requests/602">feature 602</a> could add the mark as read feature</li>
+                <li><a href="https://sourceforge.net/p/jabref/feature-requests/225">feature 225</a> read? checkbox</li>
+              </ul>
+            <li>Take aliased fields into account when sorting entries</li>
+          </ul>
+        </div>
+    </div>
 
     <div class="aversion" id="v2.10">
       <h3>Version 2.10 (March 11th, 2014)</h3>

@@ -22,6 +22,8 @@
 	<li><a href="#bibtex4word">Bibtex4Word</a></li>
 	<li><a href="#feinerleiser">Feinerleiser</a></li>
 	<li><a href="#bibsync">BibSync</a></li>
+        <li><a href="#PrettyJabRef">PrettyJabRef</a></li>
+        <li><a href="#FirefoxAddon">Firefox Addon</a></li>
       </ul>
 
       <h3 id="plugins_rightpanel"><a href="#plugins">Plugins</a></h3>
@@ -31,6 +33,7 @@
         <li><a href="#Lehner">Christoph Lehner's plugins</a></li>
         <li><a href="#renamer">Rename files plugin</a></li>
 		<li><a href="#PRRV">Paper Reference Relationship Visualization Plugin</a></li>
+        <li><a href="#Autocomplete">Autocomplete</a></li>
       </ul>
 
       <h3 id="fetchers_rightpanel"><a href="#">Entry fetchers</a></h3>
@@ -104,6 +107,15 @@
 	<p>BibSync is a tool to synchronize your paper database with a BibTeX file, and supports
 	synchronization with DOI and arXiv.</p>
 	<a href="https://github.com/minad/bibsync">BibSync</a>
+
+      <h3 id="PrettyJabRef">PrettyJabRef</h3>
+      <p>Better icons for JabRef</p>
+      <a href="https://github.com/theyate/PrettyJabRef">PrettyJabRef</a>
+
+      <h3 id="FirefoxAddon">Firefox Addon</h3>
+      <p><em>by Tobias Diez</em></p>
+      <p>Firefox addon allowing the import of new items directly from the browser.</p>
+      <a href="https://github.com/tobiasdiez/Jabref-FirefoxAddon">Firefox Addon</a>
 
       <h2 id="plugins">Plugins</h2>
 
@@ -186,6 +198,11 @@
 	  <p><em>by ZHANG Liang</em></p>
 	  <p>JabRef Paper Reference Relationship Visualization Plugin Project provides a plugin to visualize the reference relationship between selected papers.
 	  It is available as <a href="https://sourceforge.net/projects/jabrefprrvp/">separate project on sourceforge</a>.</p>
+
+      <h4 id="Autocomplete">Autocomplete</h3>
+	  <p><em>by Fabian Pflug</em></p>
+      <p>A tool to automatically complete the BibTex entries in Jabref using websites such as ACM and DBLP.</p>
+      <a href="https://github.com/gumulka/JabRefAutocomplete">Autocomplete</a>
 
       <h3>Developing plugins</h3>
       <p>A plugin is basically an implementation of one or more of JabRef's

@@ -35,6 +35,9 @@
 
       <ul class="history_column">
 
+	<li class="item">May 19th, 2015</li>
+	<li class="item_desc">Version 2.11 beta 2</li>
+
 	<li class="item">May 17th, 2015</li>
 	<li class="item_desc">Version 2.11 beta</li>
 

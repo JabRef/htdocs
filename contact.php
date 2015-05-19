@@ -24,65 +24,6 @@
       <span class="single_item"><a href="#patches">Patches</a></span>
       <span class="single_item"><a href="#donations">Donations</a></span>
 
-      <div class="contributors">
-        <h4 id="authors">Authors</h4>
-	<span class="developer">Morten O. Alver <img src="images/stock_person.png" alt="Developer" title="Main Author" /></span>
-	<span class="developer">Nizar N. Batada <img src="images/stock_person.png" alt="Developer" title="Main Author" /></span>
-	<span class="developer">Michel Baylac <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Kolja Brix <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Guillaume Gardey <img src="images/stock_person.png" alt="Developer" title="Webdesign and HTML export" /></span>
-	<span class="developer">Oscar Gustafsson <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Cyrille d'Haese <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Oliver Kopp <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">S M Mahbub Murshed <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Raik Nagel <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Christopher Oezbeck <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Ellen Reitmayr <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Gert Renckens <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Andreas Rudert <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Michael Spiegel <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Ulrik Stervbo <img src="images/stock_person.png" alt="Developer" title="Label generation" /></span>
-	<span class="developer">Joerg K. Wegner <img src="images/stock_person.png" alt="Developer" title="Export" /></span>
-	<span class="developer">Michael Wrighton <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">Egon Willighagen <img src="images/stock_person.png" alt="Developer" title="" /></span>
-	<span class="developer">J&ouml;rg Zieren <img src="images/stock_person.png" alt="Developer" title="advanced search" /></span>
-
-        <h4 id="contributors">Contributors</h4>
-	<span class="developer">Fabrice Dessaint <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Nathan Dunn <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Brian van Essen <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Alexis Gallagher <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Sascha Hunold <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Bernd Kalbfuss <img src="images/stock_person.png" alt="Contributor" title="several patches" /></span>
-	<span class="developer">Martin K&auml;hmer <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Jeffrey Kuhn <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Alex Montgomery <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">John Relph <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Moritz Ringler <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Rudolf Seemann <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Toralf Senger <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Mike Smoot<img src="images/stock_person.png" alt="Contributor" title="Medline Fetch By Id" /></span>
-	<span class="developer">Martin Stolle <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Dale Visser <img src="images/stock_person.png" alt="Contributor" title="windows packager" /></span>
-	<span class="developer">Pau Artigas Vidal<img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">David Weitzman <img src="images/stock_person.png" alt="Contributor" title="" /></span>
-	<span class="developer">Seb Wills <img src="images/stock_person.png" alt="Contributor" title="several patches" /></span>
-	<span class="developer">Igor Steinmacher <img src="images/stock_person.png" alt="Contributor" title="several patches" /></span>
-
-        <h4 id="translators">Translators</h4>
-	<span class="developer">Morten O. Alver <img src="images/stock_person.png" alt="translator" title="Norwegian (no) translator" /></span>
-	<span class="developer">Thomas Arildsen <img src="images/stock_person.png" alt="translator" title="Danish (da) translator" /></span>
-	<span class="developer">Fr&eacute;d&eacute;ric Darboux <img src="images/stock_person.png" alt="translator" title="French (fr) translator" /></span>
-	<span class="developer">Ambrogio Oliva <img src="images/stock_person.png" alt="translator" title="Italian (it) translator" /></span>
-	<span class="developer">Gert Renckens <img src="images/stock_person.png" alt="translator" title="Dutch (nl) translator" /></span>
-	<span class="developer">Jorge Tornero <img src="images/stock_person.png" alt="translator" title="Spanish (es) translator" /></span>
-	<span class="developer">Aradenatorix Veckhom <img src="images/stock_person.png" alt="translator" title="Spanish (es) translator" /></span>
-	<span class="developer">Dominik Wa&szlig;enhoven <img src="images/stock_person.png" alt="translator" title="German (de) translator" /></span>
-	<span class="developer">Wenbo Yang <img src="images/stock_person.png" alt="translator" title="Simplified Chinese (zh) translator" /></span>
-	<span class="developer">Koji Yokota <img src="images/stock_person.png" alt="translator" title="Japanese (ja) translator" /></span>
-	<span class="developer">Igor Steinmacher<img src="images/stock_person.png" alt="translator" title="Portuguese (pt-BR) translator" /></span>
-      </div>
-
     </div>
 
 

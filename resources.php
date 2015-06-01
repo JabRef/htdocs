@@ -389,7 +389,7 @@
         <li><a href="https://github.com/timstaley/jabref-astro-abbreviations/blob/master/MNRAS_abbreviations.txt">Astronomy journals abbreviation list</a> by Tim Staley. <i>Note: Please contribute using <a href="https://github.com/timstaley/jabref-astro-abbreviations">github</a>.</i></li>
         <li><a href="https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt">Economics journal abbreviations as posted on the AEA website</a> by Jeff Arnold.</li>
         <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_entrez.txt">Entrez journals abbreviation list</a> by Emmanuel Charpentier. <i>Note: provides Medline (dotless) abbr. only.</i></li>
-        <li><a href="jhttps://raw.githubusercontent.com/JabRef/reference-abbreviations/master/ournals/journal_abbreviations_geology_physics.txt">Geology and Physics abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/164/">anonymous user</a>.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_geology_physics.txt">Geology and Physics abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/164/">anonymous user</a>.</li>
         <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_ieee.txt">IEEE abbreviation list</a> by Thomas Arildsen and &ldquo;eyliu&rdquo;.</li>
         <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_medicus.txt">Index Medicus abbreviation list</a> by Guy Tsafnat.
         <i>Note: provides Medline (dotless) abbr. only.</i></li>

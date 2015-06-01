@@ -19,9 +19,9 @@
       <ul>
         <li><a href="#OOtool">Export-Filter Editor</a></li>
         <li><a href="#PocketBib">PocketBib</a></li>
-	<li><a href="#bibtex4word">Bibtex4Word</a></li>
-	<li><a href="#feinerleiser">Feinerleiser</a></li>
-	<li><a href="#bibsync">BibSync</a></li>
+    <li><a href="#bibtex4word">Bibtex4Word</a></li>
+    <li><a href="#feinerleiser">Feinerleiser</a></li>
+    <li><a href="#bibsync">BibSync</a></li>
         <li><a href="#PrettyJabRef">PrettyJabRef</a></li>
         <li><a href="#FirefoxAddon">Firefox Addon</a></li>
       </ul>
@@ -32,7 +32,7 @@
         <li><a href="#PushEmacsclient">Push to Emacsclient</a></li>
         <li><a href="#Lehner">Christoph Lehner's plugins</a></li>
         <li><a href="#renamer">Rename files plugin</a></li>
-		<li><a href="#PRRV">Paper Reference Relationship Visualization Plugin</a></li>
+        <li><a href="#PRRV">Paper Reference Relationship Visualization Plugin</a></li>
         <li><a href="#Autocomplete">Autocomplete</a></li>
       </ul>
 
@@ -90,23 +90,23 @@
 
       <a href="http://www.grahamdennis.me/pocketbib/">PocketBib</a>
 
-	  <h3 id="bibtex4word">Bibtex4word</h3>
-	  <p><em>by Mike Brookes</em></p>
-	  <p>Bibtex4Word is an add-in for Microsoft Word that allows the citation of references and the insertion of a bibliography into your document using your choice of formatting style. It is lightweight, transparent and does not mess up your documents.</p>
-	  <a href="http://www.ee.ic.ac.uk/hp/staff/dmb/perl/index.html">Bibtex4Word</a>
+      <h3 id="bibtex4word">Bibtex4word</h3>
+      <p><em>by Mike Brookes</em></p>
+      <p>Bibtex4Word is an add-in for Microsoft Word that allows the citation of references and the insertion of a bibliography into your document using your choice of formatting style. It is lightweight, transparent and does not mess up your documents.</p>
+      <a href="http://www.ee.ic.ac.uk/hp/staff/dmb/perl/index.html">Bibtex4Word</a>
 
-	<h3 id="feinerleiser">Feinerleiser</h3>
-	<p><em>by Niklas Alt</em></p>
-	<p>Feinerleiser is a tool for improving the JabRef-LibreOffice integration
-	when writing for the humanities. This tool can be run to finalize a document,
-	providing citation features that are not supported by JabRef itself.</p>
-	<a href="http://www.sourceforge.net/projects/feinerleiser/">Feinerleiser</a>
+    <h3 id="feinerleiser">Feinerleiser</h3>
+    <p><em>by Niklas Alt</em></p>
+    <p>Feinerleiser is a tool for improving the JabRef-LibreOffice integration
+    when writing for the humanities. This tool can be run to finalize a document,
+    providing citation features that are not supported by JabRef itself.</p>
+    <a href="http://www.sourceforge.net/projects/feinerleiser/">Feinerleiser</a>
 
-	<h3 id="bibsync">BibSync</h3>
-	<p><em>by Daniel Mendler</em></p>
-	<p>BibSync is a tool to synchronize your paper database with a BibTeX file, and supports
-	synchronization with DOI and arXiv.</p>
-	<a href="https://github.com/minad/bibsync">BibSync</a>
+    <h3 id="bibsync">BibSync</h3>
+    <p><em>by Daniel Mendler</em></p>
+    <p>BibSync is a tool to synchronize your paper database with a BibTeX file, and supports
+    synchronization with DOI and arXiv.</p>
+    <a href="https://github.com/minad/bibsync">BibSync</a>
 
       <h3 id="PrettyJabRef">PrettyJabRef</h3>
       <p>Better icons for JabRef</p>
@@ -194,13 +194,13 @@
       JabRef 2.9 will contain the rename functionality as part of the &ldquo;Clean up&rdquo; functionality.
       </p>
 
-	  <h4 id="PRRV">Paper Reference Relationship Visualization Plugin</h4>
-	  <p><em>by ZHANG Liang</em></p>
-	  <p>JabRef Paper Reference Relationship Visualization Plugin Project provides a plugin to visualize the reference relationship between selected papers.
-	  It is available as <a href="https://sourceforge.net/projects/jabrefprrvp/">separate project on sourceforge</a>.</p>
+      <h4 id="PRRV">Paper Reference Relationship Visualization Plugin</h4>
+      <p><em>by ZHANG Liang</em></p>
+      <p>JabRef Paper Reference Relationship Visualization Plugin Project provides a plugin to visualize the reference relationship between selected papers.
+      It is available as <a href="https://sourceforge.net/projects/jabrefprrvp/">separate project on sourceforge</a>.</p>
 
       <h4 id="Autocomplete">Autocomplete</h3>
-	  <p><em>by Fabian Pflug</em></p>
+      <p><em>by Fabian Pflug</em></p>
       <p>A tool to automatically complete the BibTex entries in Jabref using websites such as ACM and DBLP.</p>
       <a href="https://github.com/gumulka/JabRefAutocomplete">Autocomplete</a>
 

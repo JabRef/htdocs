@@ -60,7 +60,7 @@
           <td>Ted Carnevale</td>
           <td><a href="jstyles/J_of_Neurophysiology.png"><img src="jstyle_example.png" alt="Show" /></a></td>
         </tr>
-        <tr><td><a href="jstyles/Thesis_Number_Style.jstyle">"Thesis, example style with numbered citations</a></td>
+        <tr><td><a href="jstyles/Thesis_Number_Style.jstyle">"Thesis", example style with numbered citations</a></td>
           <td>Seppo Enarvi</td>
           <td>&nbsp;</td>
         </tr>
@@ -77,7 +77,7 @@
       <h2>Contact</h2>
 
       <p>If you have created one or more style files that you would like to share, please contact me at the e-mail
-      address mortenalver at users.sourceforge.net.</p>
+      address mortenalver at users.sourceforge.net or create a pull request for <a href="https://github.com/JabRef/htdocs">JabRef's htdocs</a>.</p>
 
     </div>
     <?php include("footer.php"); ?>

@@ -60,6 +60,10 @@
           <td>Ted Carnevale</td>
           <td><a href="jstyles/J_of_Neurophysiology.png"><img src="jstyle_example.png" alt="Show" /></a></td>
         </tr>
+        <tr><td><a href="jstyles/remoteSensingOfEnvironment.jstyle">Remote Sensing of Environment</a>.<br/> Following <a href="https://www.elsevier.com/journals/remote-sensing-of-environment/0034-4257/guide-for-authors#21000">Elsevier's guidelines for authors</a>.</td>
+          <td>Florian Detsch</td>
+          <td>&nbsp;</td>
+        </tr>
         <tr><td><a href="jstyles/Thesis_Number_Style.jstyle">"Thesis", example style with numbered citations</a></td>
           <td>Seppo Enarvi</td>
           <td>&nbsp;</td>

@@ -378,29 +378,26 @@
       <h3 id="contribution">Contribution to journal abbreviation lists</h3>
       <p>We want to expand both the general list and the selection of
       smaller lists, so if you have set up a representative list for your
-      own subject area, we would appreciate it if you share your list by
-      opening a new entry in our 
-      <a href="http://sourceforge.net/p/jabref/patches/">Patches</a>
-      section on SourceForge. You can either add your list as an attachment to the 
-      patch entry, or keep the list on you own home page and link to it.
-      We will then add your list to this page.</p>
+      own subject area, we would appreciate it if you share your list via
+      <a href="https://github.com/JabRef/reference-abbreviations">github</a>
+      or by dropping a note to our developers mailinglist.</p>
 
       <h3 id="availablelists">Available journal lists</h3>
       <ul>
-        <li><a href="journals/journal_abbreviations_general.txt">General list</a></li>
-        <li><a href="journals/journal_abbreviations_ams.txt">American Mathematical Society journals abbreviation list</a> by Tzu-Hao Wei.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_general.txt">General list</a></li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_ams.txt">American Mathematical Society journals abbreviation list</a> by Tzu-Hao Wei.</li>
         <li><a href="https://github.com/timstaley/jabref-astro-abbreviations/blob/master/MNRAS_abbreviations.txt">Astronomy journals abbreviation list</a> by Tim Staley. <i>Note: Please contribute using <a href="https://github.com/timstaley/jabref-astro-abbreviations">github</a>.</i></li>
-        <li><a href="https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt">Economics journal abreviations as posted on the AEA website</a> by Jeff Arnold.</li>
-        <li><a href="journals/journal_abbreviations_entrez.txt">Entrez journals abbreviation list</a> by Emmanuel Charpentier. <i>Note: provides Medline (dotless) abbr. only.</i></li>
-        <li><a href="journals/journal_abbreviations_geology_physics.txt">Geology and Physics abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/164/">anonymous user</a>.</li>
-        <li><a href="journals/journal_abbreviations_ieee.txt">IEEE abbreviation list</a> by Thomas Arildsen and &ldquo;eyliu&rdquo;.</li>
-        <li><a href="journals/journal_abbreviations_medicus.txt">Index Medicus abbreviation list</a> by Guy Tsafnat.
+        <li><a href="https://raw.github.com/jrnold/jabref-econ-journal-abbrevs/master/aea-abbrevs.txt">Economics journal abbreviations as posted on the AEA website</a> by Jeff Arnold.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_entrez.txt">Entrez journals abbreviation list</a> by Emmanuel Charpentier. <i>Note: provides Medline (dotless) abbr. only.</i></li>
+        <li><a href="jhttps://raw.githubusercontent.com/JabRef/reference-abbreviations/master/ournals/journal_abbreviations_geology_physics.txt">Geology and Physics abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/164/">anonymous user</a>.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_ieee.txt">IEEE abbreviation list</a> by Thomas Arildsen and &ldquo;eyliu&rdquo;.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_medicus.txt">Index Medicus abbreviation list</a> by Guy Tsafnat.
         <i>Note: provides Medline (dotless) abbr. only.</i></li>
         <li><a href="http://people.su.se/~alau4517/jabref.wos.txt">ISI Web of Science journal list</a> by Alistair Auffret.</li>
-        <li><a href="journals/journal_abbreviations_lifescience.txt">Life Science abbreviation list</a> by Z&eacute; Roberto Ribeiro.</li>
-        <li><a href="journals/journal_abbreviations_mechanical.txt">Mechanical and biomechanical abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/151/">anonymous user</a>.</li>
-        <li><a href="journals/journal_abbreviations_meteorology.txt">Meteorology journal list</a> by Thijs Heus.</li>
-        <li><a href="journals/journal_abbreviations_sociology.txt">Sociology journal list</a> by Ronggui Huang.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_lifescience.txt">Life Science abbreviation list</a> by Z&eacute; Roberto Ribeiro.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_mechanical.txt">Mechanical and biomechanical abbreviation list</a> by an <a href="https://sourceforge.net/p/jabref/patches/151/">anonymous user</a>.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_meteorology.txt">Meteorology journal list</a> by Thijs Heus.</li>
+        <li><a href="https://raw.githubusercontent.com/JabRef/reference-abbreviations/master/journals/journal_abbreviations_sociology.txt">Sociology journal list</a> by Ronggui Huang.</li>
       </ul>
     </div>
   </div>

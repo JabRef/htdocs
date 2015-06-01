@@ -27,28 +27,28 @@
       <table border="0" cellpadding="8" rules="none" summary="List of available styles">
         <tr>
           <td><b>Style suitable for</b></td> <td><b>Contributed by</b></td>
-	  <td><b>Example layout</b></td>
+          <td><b>Example layout</b></td>
         </tr>
 
 
 
-	<tr><td><a href="jstyles/BJAST.jstyle">Brazilian Journal of Aquatic Science and Technology</a></td>
+        <tr><td><a href="jstyles/BJAST.jstyle">Brazilian Journal of Aquatic Science and Technology</a></td>
           <td>Colin Beasley</td>
           <td>&nbsp;</td>
         </tr>
-	<tr><td><a href="jstyles/Adv_Mater.jstyle">Advanced Materials</a></td>
+        <tr><td><a href="jstyles/Adv_Mater.jstyle">Advanced Materials</a></td>
           <td>Steffan Cook</td>
           <td>&nbsp;</td>
         </tr>
-	<tr><td><a href="jstyles/American_Mineralogist.jstyle">American Mineralogist</a></td>
+        <tr><td><a href="jstyles/American_Mineralogist.jstyle">American Mineralogist</a></td>
           <td>Jan Stelling</td>
           <td><a href="jstyles/American_Mineralogist.png"><img src="jstyle_example.png" alt="Show" /></a></td>
         </tr>
-	<tr><td><a href="jstyles/Chemical_Geology.jstyle">Chemical Geology</a></td>
+        <tr><td><a href="jstyles/Chemical_Geology.jstyle">Chemical Geology</a></td>
           <td>Jan Stelling</td>
           <td><a href="jstyles/Chemical_Geology.png"><img src="jstyle_example.png" alt="Show" /></a></td>
         </tr>
-	<tr><td><a href="jstyles/Geochim_Cosmochim_Acta.jstyle">Geochim. Cosmochim. Acta</a></td>
+        <tr><td><a href="jstyles/Geochim_Cosmochim_Acta.jstyle">Geochim. Cosmochim. Acta</a></td>
           <td>Jan Stelling</td>
           <td><a href="jstyles/Geochim_Cosmochim_Acta.png"><img src="jstyle_example.png" alt="Show" /></a></td>
         </tr>
@@ -60,15 +60,15 @@
           <td>Ted Carnevale</td>
           <td><a href="jstyles/J_of_Neurophysiology.png"><img src="jstyle_example.png" alt="Show" /></a></td>
         </tr>
-	<tr><td><a href="jstyles/Thesis_Number_Style.jstyle">"Thesis, example style with numbered citations</a></td>
+        <tr><td><a href="jstyles/Thesis_Number_Style.jstyle">"Thesis, example style with numbered citations</a></td>
           <td>Seppo Enarvi</td>
           <td>&nbsp;</td>
         </tr>
-	<tr><td><a href="jstyles/turabian-deutsch.jstyle">"Turabian" (Deutsch)</a></td>
+        <tr><td><a href="jstyles/turabian-deutsch.jstyle">"Turabian" (Deutsch)</a></td>
           <td>Uwe Jochum</td>
           <td><a href="jstyles/turabian-deutsch.png"><img src="jstyle_example.png" alt="Show" /></a></td>
         </tr>
-	<tr><td><a href="jstyles/turabian-english.jstyle">"Turabian" (English)</a></td>
+        <tr><td><a href="jstyles/turabian-english.jstyle">"Turabian" (English)</a></td>
           <td>Uwe Jochum</td>
           <td><a href="jstyles/turabian-english.png"><img src="jstyle_example.png" alt="Show" /></a></td>
         </tr>

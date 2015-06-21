@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.11b3">2.11 beta 3</a></li>
         <li class="single_item"><a href="#v2.11b2">2.11 beta 2</a></li>
         <li class="single_item"><a href="#v2.11b">2.11 beta</a></li>
         <li class="single_item"><a href="#v2.10">2.10</a></li>
@@ -88,6 +89,33 @@
     <div id="main">
 
     <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.11b3">
+      <h3>Version 2.11 beta 3 (June 21th, 2015)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>New MacOSX integration</li>
+            <li>Two releases for MacOSX: OSX-Java6 for Apple Java 1.6 and OSX for Oracle Java 1.7+</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1278">bug 1278</a>: Crash after changing LookAndFeel (showing a proper error message if L&F is not available)</li>
+            <li>Adds some predefined look and feels in preference window (lists only available L&Fs)</li>
+            <li>Fixes <a href="https://sourceforge.net/p/jabref/bugs/1131">bug 1131</a>: MacOSX: JabRef minimizes when clicking on x</li>
+            <li>Dropped jayatana version 1.2.4 as version 2.x superseeds it</li>
+            <li>Feature: Trim journal names before looking up the abbreviation</li>
+            <li>Minor fixes regarding the status output of marking/unmarking entries</li>
+            <li>Internal default key bindings are honored again</li>
+            <li>Default key bindings for "Find unlinked files" (shift F7), "Open folder" (ctrl shift O), and "Hide/show toolbar" (ctrl alt t)</li>
+            <li>Opening a file using the CLI works again. Just use the filename as parameter, without any command.</li>
+            <li>Emacs keybindings: CTRL+f is not rebound as CTRL+f is more often used for "search"</li>
+            <li>Performance Improvement: Saving of large databases is dramatically faster</li>
+            <li>When a syntax error in the BibTeX source panel is made, the error cause is now always output</li>
+            <li>Jars that are available in maven are now downloaded and used in both ant and gradle</li>
+            <li>Replaced option parsing library ritopt with apache commons-cli which is in maven repository</li>
+            <li>BREAKING passing an option file to the cli command no longer works due to change of internal cli library!</li>
+            <li>Fix for <a href="https://sourceforge.net/p/jabref/bugs/1283">bug 1283</a>: Month fields like {8,} no longer cause exceptions</li>
+            <li>Disabled ISBNtoBibTeX fetcher (see <a href="https://sourceforge.net/p/jabref/bugs/1241">bug 1241</a>)</li>
+          </ul>
+        </div>
+    </div>
 
     <div class="aversion" id="v2.11b2">
       <h3>Version 2.11 beta 2 (May 19th, 2015)</h3>

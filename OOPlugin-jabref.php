@@ -13,61 +13,13 @@
 
       <?php include("navigation.php"); ?>
 
-      <h1>OpenOffice/LibreOffice plugin for JabRef</h1>
+      <h1>OpenOffice/LibreOffice integration for JabRef</h1>
 
-      <h2>Introduction</h2>
-
-      <p>This plugin offers an interface for inserting citations and formatting a Bibliography in an OpenOffice writer document from JabRef.</p>
-
-      <h2>How to use the plugin</h2>
-
-      <p>The plugin can be used with JabRef 2.4 or newer. If your JabRef version doesn't have a plugin manager (versions 2.4.x), you need to put the plugin jar file in a directory named <code>plugins</code> below the directory where the JabRef jar file is installed (typically under <code>C:\Program files\Jabref 2.x</code> if you are running under Windows). The plugin should be loaded next time you start JabRef, and an item named <b>OpenOffice.org panel</b> should appear in JabRef's <b>Plugins</b> menu.</p>
-
-      <p>The plugin should work with OpenOffice versions 2.4.x and 3.x, provided it is installed with Java support (this is usually the case on Windows, while in some Linux distributions you need to install a separate package named <code>openoffice.org-java-common</code> or something similar).</p>
-
-      <h2>Downloads</h2>
-
-      <p><a href="plugins/net.sf.jabref.oo.ooplugin-0.9.jar">Plugin version 0.9</a></p>
-
-      <p><a href="plugins/JabRef-oo-0.9-src.zip">Plugin source code.</a> The source code tree includes four OpenOffice.org jars and JabRef 2.6. The plugin is built using an included Ant build file.</p>
+      <p>The former plugin has become an integral part of JabRef since version 2.9 and is maintained along new releases of JabRef.</p>
 
       <p><a href="OOPlugin-styles.php">User contributed style files</a></p>
 
       <p><a href="plugins/example_style_file.jstyle">Example style file</a></p>
-
-      <p>The plugin is distributed under the terms of the GNU <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">General Public License</a>, version 2 or later.</p>
-
-      <h2>Updates</h2>
-      <ul>
-	<li>2010-10-26: Version 0.9: Reference list is now placed in a section for better mobility and stability.
-    	  Formatting of citations is now done by naming a OpenOffice character format.
-    	  Allows addition of extra information e.g. page number, to citations. <b>Requires OpenOffice 3.x</b>.</li>
-    	<li>2010-06-03: Version 0.8: Style file format now allows optional double quotes aroung property values.</li>
-        <li>2010-05-12: Version 0.7.4: Added a couple of new citation properties: AuthorLastSeparatorInText and MultiCiteChronological</li>
-        <li>2010-03-04: Version 0.7.3: Added support for &lt;smallcaps&gt; tag to indicate small caps in reference list. Several bug fixes.</li>
-        <li>2010-02-02: Version 0.7.2: Added MaxAuthorsFirst property to override MaxAuthors the first time each citation appears.</li>
-        <li>2009-10-07: Version 0.7.1: Several important bug fixes.</li>
-        <li>2009-08-26: Version 0.7: BibTeX fields are now preprocessed to handle LaTeX \textit and \textbf commands and character sequences. <b>NOTE: it is no longer necessary to run FormatChars on fields.</b></li>
-        <li>2009-08-23: Version 0.6: Improved handling of undefined BibTeX keys. Added option to not sync automatically when adding citation.</li>
-        <li>2009-08-05: Version 0.5: Fixed connection problem on Mac. Fixed bug in merge function.</li>
-        <li>2009-06-03: Version 0.4: Added support for superscript/subscript tags in reference list, subscripted citations and different brackets for numbering in the reference list.</li>
-        <li>2009-05-17: Version 0.3: Added MinimumGroupingCount property. Some GUI changes.</li>
-        <li>2009-04-02: Version 0.2.1: Fixed bug in sorting of reference list.</li>
-        <li>2009-03-01: Version 0.2: Better sorting of citations in captions, tables and footnotes.</li>
-        <li>2009-02-25: Version 0.1.9: Added support for bold/italic citation markers, and for citations in table cells and footnotes.</li>
-        <li>2008-12-21: Version 0.1.2: Added invisible citations. Merged citations are now sorted.</li>
-        <li>2008-11-19: Version 0.1.1: Improved handling of OpenOffice shutdown and reconnect.</li>
-        <li>2008-10-25: Version 0.1: User interface improvements. Can now select which Writer document to work with.</li>
-        <li>2008-10-19: Version 0.0.9: Enabled connection to OpenOffice.org 3. Streamlined connection process.</li>
-        <li>2008-09-03: Version 0.0.8: No major changes, but packaged with JabRef 2.4.</li>
-        <li>2008-02-20: Version 0.0.7: New interface for style selection. Styles can now specify paragraph format.</li>
-        <li>2008-02-13: Version 0.0.6: Sorting and grouping of number citation markers.</li>
-        <li>2008-02-06: Version 0.0.5: Modified style file format. Fixed bug in handling names with elements like "van der".</li>
-        <li>2008-01-09: Version 0.0.4: Style file is now automatically reloaded if modified.</li>
-        <li>2007-12-17: Version 0.0.3: From this version, we bypass OO's built-in bibliographic system.</li>
-        <li>2007-12-04: Version 0.0.2</li>
-        <li>2007-12-01: Version 0.0.1</li>
-      </ul>
 
       <h2>Using the OpenOffice interface</h2>
 

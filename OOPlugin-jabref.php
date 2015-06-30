@@ -444,10 +444,6 @@ default=\format[AuthorLastFirst,AuthorAbbreviator,AuthorAndsReplacer]{\author}
         <li>Copy-pasting the example style file directly from this page can give an unparsable file. To avoid this, instead download the example file from the link in the download section.</li>
       </ul>
 
-      <h2>Contact</h2>
-
-      <p>If you have tested this plugin, and want to give your feedback, or if you want to contribute to the development of the plugin, please contact me at the e-mail address mortenalver at users.sourceforge.net.</p>
-
     </div>
     <?php include("footer.php"); ?>
   </div>

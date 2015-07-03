@@ -138,6 +138,11 @@ distribution, so we cannot give exact advise for everybody. </p>
       <p class="answer">Since JabRef is open source, you can of course also download the source code and compile it yourself.</p>
       <p class="answer">If you want to do anything about this issue, please report this bug with your virus scanner.</p>
 
+      <p class="question">Q: How can I use JabRef as backend for Microsoft Word?</p>
+      <p class="answer">A: You can directly use the references in Word's internal reference manager. Short explanation: Export your bibliography in XML format and replace the Sources.xml in <code>%APPDATA%\Roaming\Microsoft\Bibliography</code>. Long explanation: see <a href="http://www.ademcan.net/?d=2012/01/30/15/23/05-using-jabref-references-in-word-documents">Using JabRef references in Word document</a>.</p>
+      <p class="answer">Another option is to use <a href="http://www.ee.ic.ac.uk/hp/staff/dmb/perl/index.html">BibteX4Word</a>.</p>
+      <p class="answer">The last option is to use <a href="https://github.com/Docear/Docear4Word">Docear4Word</a>, which is planned to be ported to JabRef.</p>
+
       <h3 id="developers">Developers</h3>
 
       <p class="question">Q: How can I join the <acronym>JabRef</acronym> project?</p>

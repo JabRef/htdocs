@@ -143,6 +143,9 @@ distribution, so we cannot give exact advise for everybody. </p>
       <p class="answer">Another option is to use <a href="http://www.ee.ic.ac.uk/hp/staff/dmb/perl/index.html">BibteX4Word</a>.</p>
       <p class="answer">The last option is to use <a href="https://github.com/Docear/Docear4Word">Docear4Word</a>, which is planned to be ported to JabRef.</p>
 
+      <p class="question">Q: How can I start or focus JabRef with hotkey Windows+J?</p>
+      <p class="answer">A: Use <a href="http://www.autohotkey.com/">AutoHotkey</a> and <a href="https://github.com/koppor/autohotkey-scripts/blob/master/JabRef.ahk">JabRef.ahk</a> provided at <a href="https://github.com/koppor/autohotkey-scripts">koppor's autohotkey scripts</a>.</p>
+
       <h3 id="developers">Developers</h3>
 
       <p class="question">Q: How can I join the <acronym>JabRef</acronym> project?</p>

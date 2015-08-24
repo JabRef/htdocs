@@ -47,11 +47,11 @@
 
       <h3 id="bugtracker">Bug reports</h3>
       <p>To register bug reports, go to the
-      <a href="http://sourceforge.net/p/jabref/bugs/">Bug tracker</a>.</p>
+      <a href="https://github.com/JabRef/jabref/issues">Bug tracker</a>.</p>
 
       <h3 id="featurerequest">Feature request</h3>
       <p>To register feature requests, go to the
-      <a href="http://sourceforge.net/p/jabref/feature-requests/">Feature request page</a>.</p>
+      <a href="https://github.com/JabRef/jabref/issues">Feature request page</a>.</p>
 
       <h3 id="patches">Patches</h3>
       <p>We migrated our source code to <a href="https://github.com/JabRef/jabref">Github</a>. 

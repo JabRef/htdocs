@@ -24,9 +24,6 @@
 
       <h3 id="Download">Download</h3>
 
-      <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">
-      <img src="images/RunJabRef.png" alt="Run JabRef instantly" /></a>
-
       <a href="http://sourceforge.net/projects/jabref/files/jabref/2.10"><img src="images/Download-stable.png" alt="Download current stable version" /></a>
 
       <a href="download.php#beta"><img src="images/Download-beta.png" alt="Download latest beta version" /></a>

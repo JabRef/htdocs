@@ -23,7 +23,6 @@
 
       <h3>Installation</h3>
       <span class="single_item"><a href="#java">Installing Java</a></span>
-      <span class="single_item"><a href="#web">Web Start</a></span>
       <span class="single_item"><a href="#linux">Linux</a></span>
       <span class="single_item"><a href="#windows">Windows</a></span>
       <span class="single_item"><a href="#macosx">MacOSX</a></span>
@@ -60,20 +59,6 @@
       "http://www.oracle.com/technetwork/java/javase/downloads/index.html">Sun Java download page</a>,
       download the "jre" version for your operating system and
       install it.</p>
-
-
-      <h4 id="web">Web Start</h4>
-
-      <p>If you have Java installed you can run the latest version
-      of <acronym>JabRef</acronym> directly through Java Web Start by clicking the link
-      below. Make sure your browser uses the &quot;javaws&quot;
-      program when opening .jnlp files. For security, Web Start will
-      ask your permission before it gives the application access to
-      your local computer. You can only run JabRef in this way if
-      you are willing to grant this permission.</p>
-
-      <p><a href="http://jabref.sourceforge.net/jws/jabref.jnlp">Run JabRef with Java Web Start</a></p>
-
 
       <h4 id="linux">Linux</h4>
 

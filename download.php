@@ -36,6 +36,8 @@
     <p>
       To browse or check out the <acronym>JabRef</acronym> developer source code from Git, take a look at our
       <a href="https://github.com/JabRef/jabref">Github page</a>.
+      Latest builds are automatically made available at <a href="http://ge.tt/5UUPRGQ2">ge.tt</a>.
+      A manually maintained repository is available at <a href="http://ge.tt/9Idc446">ge.tt</a>, too.
     </p>
 
     </div>

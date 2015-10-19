@@ -62,6 +62,20 @@
     </div>
 
     <div id="main">
+      <h3 id="about">Survey</h3>
+      <p>To foster its developments, the JabRef core team is conducting a <a href="https://enquetes.inra.fr/index.php?sid=29749"><span style="color:rgb(0,0,220); font-weight: bold;">survey</span></a> at
+        <a href="https://enquetes.inra.fr/index.php?sid=29749">https://enquetes.inra.fr/index.php?sid=29749</a>.
+      </p>
+      <p>We are interested in getting your opinion (whether you are currently a user or you decided to move to another software).
+         The survey is open up to November 14, and consists of 3 sets of questions:
+         <ul>
+            <li>What do you think about the current features?</li>
+            <li>Which new features should be included?</li>
+            <li>Who are JabRef users?</li>
+         </ul>
+         It will take between 15 and 30 minutes to complete.
+      </p>
+
       <h3 id="about">About</h3>
 
       <p><acronym>JabRef</acronym> is an open source

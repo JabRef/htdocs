@@ -97,9 +97,6 @@
       files. There currently is no <acronym>BibTeX</acronym> style database.
       See <a href="http://tex.stackexchange.com/questions/152490/bibtex-style-database">StackExchange</a> for more information.</p>
 
-      <p>You can <a href="http://jabref.sourceforge.net/jws/jabref.jnlp">run
-      <acronym>JabRef</acronym> instantly with Java Web Start</a> now.</p>
-
       <h3 id="features">Features</h3>
 
       <ul class="features_column">

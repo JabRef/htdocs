@@ -122,6 +122,9 @@ distribution, so we cannot give exact advise for everybody. </p>
 	  <p class="question">Q: After downloading and unzipping, OS X shows &ldquo;the package was damaged and move to trash&rdquo;</p>
 	  <p class="answer">A: On Mac OS X Lion, it is possible to resolve it by temporarily changing the Gate Keeper security settings under &ldquo;Security&amp;Privacy&rdquo; in the system preferences to &ldquo;Anywhere&rdquo;. After that you can open the <acronym>JabRef</acronym> app. When you have opened it once, you can change the security settings back and you'll still be able to open the app.</p>
 
+	  <p class="question">Q: There is no explicit Mac OS X application for JabRef 2.11</p>
+	  <p class="answer">A: We were not able to generate a working version of JabRef 2.11 for Mac OS X. Please use the jar or wait until JabRef 3.0 is released. That version will fully support Mac OS X again.</p>
+
       <h3 id="windows"><acronym>JabRef</acronym> &amp; Windows</h3>
 
 	  <p class="question">Q: JabRef does not start on Windows 8, 64bit</p>

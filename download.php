@@ -20,9 +20,10 @@
     <h3 id="stable">Latest stable version</h3>
     <p>We recommend the stable version for all casual users. These releases are beta-tested and expected to be stable and reliable.</p>
     <p>
-      <a href="http://sourceforge.net/projects/jabref/files/jabref/2.10"><img src="images/Download-stable.png" alt="Download current stable version" /></a>
+      <a href="http://sourceforge.net/projects/jabref/files/jabref/2.11"><img src="images/Download-stable.png" alt="Download current stable version" /></a>
     </p>
 
+<!--
     <h3 id="beta">Current beta version</h3>
     <p>The beta version is an alternative for users who can't wait for the latest features, or who want to help out with beta-testing.</p>
     <p class="red">
@@ -31,13 +32,15 @@
     <p>
       <a href="http://sourceforge.net/projects/jabref/files/jabref/2.11%20beta%204/"><img src="images/Download-beta.png" alt="Download latest beta version" /></a>
     </p>
+-->
 
     <h3 id="dev">Developer versions</h3>
     <p>
       To browse or check out the <acronym>JabRef</acronym> developer source code from Git, take a look at our
       <a href="https://github.com/JabRef/jabref">Github page</a>.
-      Latest builds are automatically made available at <a href="http://ge.tt/5UUPRGQ2">ge.tt</a>.
-      A manually maintained repository is available at <a href="http://ge.tt/9Idc446">ge.tt</a>, too.
+      Latest builds are automatically made available at <a href="http://ge.tt/5UUPRGQ2">http://ge.tt/5UUPRGQ2</a>.
+      Since ge.tt does not want to support that kind of usage, do not expect that all files of the build are available.
+      Therefore, we manually maintain a repository at <a href="http://ge.tt/9Idc446">http://ge.tt/9Idc446</a>.
     </p>
 
     </div>

@@ -15,22 +15,26 @@
 
     <div id="rightpanel">
 
-      <a href="translation.php">
+      <a href="https://github.com/JabRef/jabref/wiki/Translating-JabRef">
       <img src="images/jti.png" alt="JabRef translation initiative" /></a>
 
       <p>Please help us to translate <acronym>JabRef</acronym> into your language.</p>
-      <p class="item_desc"><a href="http://jabref.sourceforge.net/translation.php">See translation page for details.</a></p>
+      <p class="item_desc"><a href="https://github.com/JabRef/jabref/wiki/Translating-JabRef">See translation page for details.</a></p>
 
 
       <h3 id="Download">Download</h3>
 
-      <a href="http://sourceforge.net/projects/jabref/files/jabref/2.10"><img src="images/Download-stable.png" alt="Download current stable version" /></a>
-
-      <a href="download.php#beta"><img src="images/Download-beta.png" alt="Download latest beta version" /></a>
+      <p>Please consult our <a href="download.php">download page</a>.</p>
 
       <h3 id="News">News</h3>
 
       <ul class="history_column">
+
+	<li class="item">November 11th, 2015</li>
+	<li class="item_desc">Version 2.11</li>
+
+	<li class="item">September 10th, 2015</li>
+	<li class="item_desc">Version 2.11 beta 4</li>
 
 	<li class="item">June 21th, 2015</li>
 	<li class="item_desc">Version 2.11 beta 3</li>
@@ -164,8 +168,10 @@
           Chinese (simplified), Danish, English, French, German, Indonesian, Italian, Japanese, Norwegian, Spanish, Turkish and Vietnamese.
         </li>
 
+<!--
 	<li class="feature">Plugin functionality</li>
         <li class="feature_desc">Please see our <a href="resources.php">resources page</a> for details.</li>
+-->
 
       </ul>
     </div>

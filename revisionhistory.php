@@ -17,6 +17,8 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.11">2.11</a></li>
+        <li class="single_item"><a href="#v2.11b4">2.11 beta 4</a></li>
         <li class="single_item"><a href="#v2.11b3">2.11 beta 3</a></li>
         <li class="single_item"><a href="#v2.11b2">2.11 beta 2</a></li>
         <li class="single_item"><a href="#v2.11b">2.11 beta</a></li>
@@ -89,6 +91,51 @@
     <div id="main">
 
     <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.11">
+      <h3>Version 2.11 (November 11th, 2015)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>Backports from 2.80: Bug fix in <a href="https://github.com/JabRef/jabref/issues/193">issue 193</a>: sometimes IEEEXplore stalls during fetch</li>
+            <li>Backports from 2.80: Fixes <a href="https://github.com/JabRef/jabref/issues/194">issue 194</a> and <a href="https://github.com/JabRef/jabref/issues/244">issue 244</a>: JabRef starts again on Win XP and Win Vista</li>
+            <li>Backports from 2.80: Fixes <a href="https://github.com/JabRef/jabref/issues/103">issue 103</a>: JDialog for auto set links is opened and closed correctly</li>
+            <li>Backports from 2.80: Define a default lookAndFeel for Mac OS X</li>
+            <li>Do not show replaced journal abbreviations on console</li>
+          </ul>
+        </div>
+    </div>
+
+    <div class="aversion" id="v2.11b4">
+      <h3>Version 2.11 beta 4 (September 10th, 2015)</h3>
+        <div class="version_desc">
+          <ul>
+            <li>Add of Persian localization (by Behrouz Javanmardi)</li>
+            <li>Backport from 2.80: Fixes <a href="https://github.com/JabRef/jabref/issues/115">issue 115</a>: Remove whitespaces in serialization</li>
+            <li>Backport from 2.80: Fixes <a href="https://sourceforge.net/p/jabref/bugs/1297">bug 1297</a>: No console message on closing.</li>
+            <li>Backport from 2.80: Fixes <a href="https://sourceforge.net/p/jabref/bugs/1290">bug 1290</a>: Spanish localization was not displayed correctly.</li>
+            <li>Backport from 2.80: Fixes <a href="https://github.com/JabRef/jabref/issues/144">issue 144</a>: Unreadable text in Russian installer</li>
+            <li>Fix for bugs  <a href="https://sourceforge.net/p/jabref/bugs/1221">bug 1221</a> and  <a href="https://sourceforge.net/p/jabref/bugs/1261">bug 1261</a> (also partly  <a href="https://sourceforge.net/p/jabref/bugs/1243">bug 1243</a>): order of fields in customized entry types no longer gets destroyed by the entry editor </li>
+            <li>"ISBN to BibTeX" fetcher now uses eBook.de's API (fixes bug  <a href="https://sourceforge.net/p/jabref/bugs/1241">bug 1241</a>)</li>
+            <li>BREAKING: Search groups now use same search logic as UI --> avoids confusion when converting a UI search into a search group. Behaviour before: contains/regex check of whole search string; behaviour after: contains/regex check of every word of the search string. The new search is more powerful and con simulate the old behaviour: enclose everything in double quotes, e.g., process language --> "process language".</li>
+            <li>Fix for bug  <a href="https://sourceforge.net/p/jabref/bugs/1276">bug 1276</a>: OO styles do not consider editor fields anymore for sorting</li>
+            <li>Fix for bug  <a href="https://sourceforge.net/p/jabref/bugs/1288">bug 1288</a>: Emacs keybindings: Rebinding of C-f can now be configured</li>
+            <li>Special fields: .bib files edited with 2.11 beta 3 are not compatible with this release. Other versions are not affected.</li>
+            <li>JabRef metadata ("jabref-meta") @comments are now always written in alphabetical order</li>
+            <li>Changed HTML description of search expressions, expressing the conditional logic more explicitly with brackets.</li>
+            <li>Fixed INSPIRE searches compatibility problem (by Stefano Gariazzo).</li>
+            <li>Change default of "use IEEE abbreviations" from TRUE to FALSE</li>
+            <li>Fix for bug  <a href="https://sourceforge.net/p/jabref/bugs/1293">bug 1293</a>: "Star" for modified database is correctly shown again.</li>
+            <li>Journal abbreviation lists: In case entries are defined more than once, a message is output on the console</li>
+            <li>Antialiasing is now enabled and set to LCD</li>
+            <li>Update dependencies: jersey, commons.logging, pdfbox, JGoodies, glazedlists, JDBC connectors</li>
+            <li>Remove local JGoodies dependency: replace SimpleInteralFrame with SwingX JXTitledPanel and UIFSplitPane by JSplitPane</li>
+            <li>Switch from antlr2 grammar to antlr4 for capturing the search expressions. Should be backwards compatible.</li>
+            <li>Streamline logging API: Replace usages of java.util.logging with commons.logging</li>
+            <li>Refactored preferences</li>
+            <li>Fix several FindBugs warnings</li>
+          </ul>
+        </div>
+    </div>
 
     <div class="aversion" id="v2.11b3">
       <h3>Version 2.11 beta 3 (June 21th, 2015)</h3>

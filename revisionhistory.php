@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v2.11.1">2.11.1</a></li>
         <li class="single_item"><a href="#v2.11">2.11</a></li>
         <li class="single_item"><a href="#v2.11b4">2.11 beta 4</a></li>
         <li class="single_item"><a href="#v2.11b3">2.11 beta 3</a></li>
@@ -91,6 +92,16 @@
     <div id="main">
 
     <h2>Revision history</h2>
+
+    <div class="aversion" id="v2.11.1">
+      <h3>Version 2.11.1 (November 16th, 2015)</h3>
+        <div class="version_desc">
+          <ul>
+              <li>Backports from 2.80: Fix <a href="https://github.com/JabRef/jabref/issues/250">issue 250</a>: No hard line breaks after 70 chars in serialized JabRef meta data</li>
+              <li>Backports from 2.80: Fix <a href="https://github.com/JabRef/jabref/issues/325">issue 325</a>: Deactivating AutoCompletion crashes EntryEditor</li>
+          </ul>
+        </div>
+    </div>
 
     <div class="aversion" id="v2.11">
       <h3>Version 2.11 (November 11th, 2015)</h3>

@@ -40,6 +40,9 @@
 &nbsp;  url = {http://jabref.sf.net},<br/>
  }</code></p>
 
+      <p class="question">Q: JabRef does not start. What should I do?</p>
+      <p class="answer">A: The only way to fix that is to reset the preferences. Excecute java -jar JabRef-3.0.jar --prdef all -n. On Windows, if that does not help, execute regedit an delete the folder HKEY_CURRENT_USER\SOFTWARE\JavaSoft\Prefs\net\sf\jabref.</p>
+
       <p class="question">Q: Does JabRef support Chinese characters?</p>
 	  <p class="answer">A: Yes. Go to Options->Preferences->General->Default Encoding. Set it to UTF8. At &ldquo;Appearance&rdquo; set table font as simsun (or any other Chinese font). At &ldquo;General&rdquo;, you can change the UI language to Chinese. More information was available at <a href="http://yenlung.math.nccu.edu.tw/~yenlung/notes/latex_in_Windows.pdf">http://yenlung.math.nccu.edu.tw/~yenlung/notes/latex_in_Windows.pdf</a>, but the link is currently broken. </p>
 

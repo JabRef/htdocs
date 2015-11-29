@@ -15,6 +15,9 @@
 
     <div id="main">
 
+    <p>
+    We use <a href="https://www.ej-technologies.com/products/install4j/overview.html">install4j</a>, the multi-platform installer builder.</p>
+
     <h2>Download</h2>
 
     <h3 id="stable">Latest stable version</h3>

@@ -20,6 +20,8 @@
 
     <h2>Download</h2>
 
+    <p>Latest releases are always available at <a href="https://github.com/JabRef/jabref/releases">https://github.com/JabRef/jabref/releases</a>.</p>
+
     <h3 id="stable">Latest stable version</h3>
     <p>We recommend the stable version for all casual users. These releases are beta-tested and expected to be stable and reliable.</p>
     <p>
@@ -41,7 +43,7 @@
     <p>
       To browse or check out the <acronym>JabRef</acronym> developer source code from Git, take a look at our
       <a href="https://github.com/JabRef/jabref">Github page</a>.
-      Latest builds are made available at <a href="http://builds.jabref.org">http://builds.jabref.org</a>.
+      Latest builds are made available at <a href="http://builds.jabref.org/master/">http://builds.jabref.org/master/</a>.
     </p>
 
     </div>

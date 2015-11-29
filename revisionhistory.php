@@ -17,6 +17,7 @@
       <h3>Version</h3>
 
       <ul class="history_column">
+        <li class="single_item"><a href="#v3.0">3.0</a></li>
         <li class="single_item"><a href="#v2.11.1">2.11.1</a></li>
         <li class="single_item"><a href="#v2.11">2.11</a></li>
         <li class="single_item"><a href="#v2.11b4">2.11 beta 4</a></li>
@@ -92,6 +93,13 @@
     <div id="main">
 
     <h2>Revision history</h2>
+
+    <div class="aversion" id="v3.0">
+      <h3>Version 3.0 (November 29th, 2015)</h3>
+        <div class="version_desc">
+            <p>Please refer to <a href="https://github.com/JabRef/jabref/blob/v3.0/CHANGELOG.md">the CHANGELOG.md of v3.0</a> for a version history.</p>
+        </div>
+    </div>
 
     <div class="aversion" id="v2.11.1">
       <h3>Version 2.11.1 (November 16th, 2015)</h3>

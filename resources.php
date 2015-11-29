@@ -27,21 +27,8 @@
       </ul>
 
       <h3 id="plugins_rightpanel"><a href="#plugins">Plugins</a></h3>
-      <ul>
-        <li><a href="#BibSonomy">BibSonomy plugin</a></li>
-        <li><a href="#PushEmacsclient">Push to Emacsclient</a></li>
-        <li><a href="#Lehner">Christoph Lehner's plugins</a></li>
-        <li><a href="#renamer">Rename files plugin</a></li>
-        <li><a href="#PRRV">Paper Reference Relationship Visualization Plugin</a></li>
-        <li><a href="#Autocomplete">Autocomplete</a></li>
-      </ul>
 
-      <h3 id="fetchers_rightpanel"><a href="#">Entry fetchers</a></h3>
-      <ul>
-        <li><a href="#ADS">JabRef ADS fetcher</a></li>
-        <li><a href="#ADS_HUG">Modified JabRef ADS fetcher</a></li>
-        <li><a href="#GVK">GVK/SRU fetcher</a></li>
-      </ul>
+      <h3 id="fetchers_rightpanel"><a href="#entryfetchers">Entry fetchers</a></h3>
 
       <h3 id="exportfilters_rightpanel"><a href="#export_filters">Export filters</a></h3>
       <ul>
@@ -119,125 +106,17 @@
 
       <h2 id="plugins">Plugins</h2>
 
-      <p>JabRef offers a plugin framework that allows the application to 
-      be extended with further import and export filters, web search modules 
-      (fetchers), layout formatters, cite-while-you-write modules and general
-      sidepane components.</p>
-
-      <h3 id="Installing_plugins">Installing plugins</h3>
-
-      <p>If you are using JabRef 2.5 or later, you can install plugins
-      using the Plugin Manager.
-      Go to <b>Plugins -> Manage Plugins</b>. Click <b>Install plugin</b>,
-      and choose the <i>jar</i> file containing the plugin.</p>
-
-      <p>For JabRef versions 2.4.x, plugins must be installed manually.
-      This is fortunately quite simple - you must create a directory
-      named <strong>plugins</strong> right below the directory where
-      JabRef is installed (specifically, the directory where the file
-      named <strong>JabRef-X.jar</strong> is located, where X is the
-      version number), and drop your plugins there.
-      All plugins (in the form of jar files) in this directory will be
-      loaded automatically when you start up JabRef.</p>
-
-      <h3>Plugins available for download</h3>
-
-      <h4 id="BibSonomy">BibSonomy plugin</h4>
-      <p><em>by <a href="http://www.bibsonomy.org/help/contact/team">BibSonomy team</a></em></p>
-
-      <p><a href="http://www.bibsonomy.org/help/doc/jabref-plugin/index.html">Home page (see also for source code)</a></p>
-
-      <p>BibSonomy is a free online platform for collaborative sharing of
-      bookmarks and scientific references, based on the BibTeX-format. Its
-      features comprise e.g. the comfortable maintenance of online
-      publication lists. With this plugin, it is possible to 
-      <a href="http://www.bibsonomy.org/help/doc/jabref-plugin/fetch.html">fetch</a>,
-      <a href="http://www.bibsonomy.org/help/doc/jabref-plugin/export.html">store</a> and
-      <a href="http://www.bibsonomy.org/help/doc/jabref-plugin/delete.html">delete</a>
-      BibTeX entries from BibSonomy; in this way, JabRef can be used
-      as a client application to remotely manage the online bibliography
-      stored centrally at <a href="http://www.bibsonomy.org">bibsonomy.org</a>.</p>
-
-
-      <h4 id="PushEmacsclient">Push to Emacsclient</h4>
-
-      <p>Version 1.0<br />
-      <a href="plugins/net.sf.jabref.external.pushtoemacsclient-1.0.jar">Plugin</a> -
-      <a href="plugins/PushToEmacsclient.zip">Source code</a></p>
-
-      <p>This plugin provides the same functionality as the built-in Push to Emacs feature,
-      except that it uses <em>emacsclient</em> instead of <em>gnuclient</em>
-      to communicate with Emacs. This requires a recent version of Emacs to work.<br />
-      Since JabRef 2.8, this behavior is built-in.</p>
-
-
-      <h4 id="Lehner">Christoph Lehner's plugins</h4>
-      <p><em>by Christoph Lehner</em></p>
-
-      <p><a href="http://www.lhnr.de/ext/">Home page (see also for source code)</a></p>
-
-      <p>The page contains the following plugins:</p>
-      <ul>
-      <li>Plugin for automatic download of PDF files from arXiv or DOI links</li>
-      <li>Plugin to browse and import new preprints from arXiv</li>
-      <li>Plugin to import articles from INSPIRE</li>
-      </ul>
-
-
-      <h4 id="renamer">Rename file plugin</h4>
-      <p><em>by Sergey Kor</em></p>
-      <p>
-      This plugin allows to automatically rename/copy/delete attached files.
-      Files can be renamed according to their BibTeX entry.
-      The rename pattern uses the same syntax as a BibTeX key generator of JabRef. 
-      <a href="https://github.com/korv/Jabref-plugins/downloads">Download</a><br/>
-      JabRef 2.9 will contain the rename functionality as part of the &ldquo;Clean up&rdquo; functionality.
+      <p>Until version 2.11 JabRef offered a plugin framework.
+      Support for that has been removed.
+      See <a href="https://github.com/JabRef/jabref/issues/152">issue #152</a> for the current status of integration of the plugins into JabRef.
       </p>
-
-      <h4 id="PRRV">Paper Reference Relationship Visualization Plugin</h4>
-      <p><em>by ZHANG Liang</em></p>
-      <p>JabRef Paper Reference Relationship Visualization Plugin Project provides a plugin to visualize the reference relationship between selected papers.
-      It is available as <a href="https://sourceforge.net/projects/jabrefprrvp/">separate project on sourceforge</a>.</p>
-
-      <h4 id="Autocomplete">Autocomplete</h3>
-      <p><em>by Fabian Pflug</em></p>
-      <p>A tool to automatically complete the BibTex entries in Jabref using websites such as ACM and DBLP.</p>
-      <a href="https://github.com/gumulka/JabRefAutocomplete">Autocomplete</a>
-
-      <h3>Developing plugins</h3>
-      <p>A plugin is basically an implementation of one or more of JabRef's
-      interfaces, packaged in a jar file with an XML file describing the
-      plugin and which extension points it connects to.
-      See our <a href="http://jabref.wiki.sourceforge.net/Getting+started+with+JabRef+plugin+development">
-      Wiki page on getting started writing plugins</a>.</p>
-
 
       <h2 id="entryfetchers">Entry fetchers</h2>
 
-      <h3 id="ADS">JabRef ADS fetcher</h3>
-      <p><em>by Ryo Igarashi</em></p>
-
-      <p>JabRef plugin for fetching BibTeX entry from &ldquo;The SAO/NASA Astrophysics Data System&rdquo; using Digital Object Identifiers (DOI)
-      <a href="https://launchpad.net/jabref-ads">More information</a></p>
-
-
-      <h3 id="ADS_HUG">Modified JabRef ADS fetcher</h3>
-      <p><em>by Alexander Hug</em></p>
-
-      <p>This ADS fetcher is modified so one can ask for several parameters like authors, title, year etc. Most useful keywords are predefined in 
-      combo-boxes, but may be overwritten by any valid keyword, as described on the ADS homepage and may also be looked up by the &ldquo;help&rdquo; button. 
-      you may enter either &ldquo;hug, a&rdquo; and select &ldquo;Author&rdquo; from the combo-box, OR you enter &ldquo;author=hug, a&rdquo; and select &ldquo;None or special keyword&rdquo;.</p>
-
-      <p>Version 0.1<br />
-      <a href="plugins/ADSsearch-0.1.jar">Plugin</a> -
-      <a href="plugins/ADSsearch-0.1-src.zip">Source code</a></p>
-
-
-      <h3 id="GVK">GVK (Gemeinsamer Verbundkatalog) fetcher</h3>
-      <p><em>by Gemeinsamen Bibliotheksverbund</em></p>
-      <p><a href="http://www.gbv.de/wikis/cls/Jabref-GVK-Plugin">Home page (see also for source code)</a></p>
-      <p>This plugin searches and fetcher entries from the GVK (Gemeinsamer Verbundkatalog).</p>
-
+      <p>Until version 2.11 JabRef offered a plugin framework.
+      Support for that has been removed.
+      See <a href="https://github.com/JabRef/jabref/issues/152">issue #152</a> for the current status of integration of the plugins into JabRef.
+      </p>
 
       <h2 id="export_filters">Export filters</h2>
 

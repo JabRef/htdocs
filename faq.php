@@ -31,6 +31,12 @@
 
       <h3 id="general_usage">General usage</h3>
 
+      <p class="question">Q: My plugins stopped working. What should I do?</p>
+      <p class="answer">A: JabRef v3.0 removed plugin support as the development team cannot keep up plugin support any more.
+      Plugins, however, can be integrated in JabRef.
+      See <a href="https://github.com/JabRef/jabref/issues/152">issue #152</a> for the current status and discussion.
+      Please contact the author of the respective plugin and ask him to port his plugin into JabRef's code.</p>
+
       <p class="question">Q: I am using <acronym>JabRef</acronym> in my work. Should I cite <acronym>JabRef</acronym> in my publications?</p>
       <p class="answer">A: You are not obliged to cite <acronym>JabRef</acronym>, but we would greatly appreciate it if you do.</p>
       <p><code>@Manual{JabRef_software,<br/>

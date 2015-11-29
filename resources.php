@@ -19,9 +19,9 @@
       <ul>
         <li><a href="#OOtool">Export-Filter Editor</a></li>
         <li><a href="#PocketBib">PocketBib</a></li>
-    <li><a href="#bibtex4word">Bibtex4Word</a></li>
-    <li><a href="#feinerleiser">Feinerleiser</a></li>
-    <li><a href="#bibsync">BibSync</a></li>
+        <li><a href="#bibtex4word">Bibtex4Word</a></li>
+        <li><a href="#feinerleiser">Feinerleiser</a></li>
+        <li><a href="#bibsync">BibSync</a></li>
         <li><a href="#PrettyJabRef">PrettyJabRef</a></li>
         <li><a href="#FirefoxAddon">Firefox Addon</a></li>
       </ul>

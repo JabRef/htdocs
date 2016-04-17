@@ -54,6 +54,8 @@
 
     <div id="main">
 
+      <p style="font-weight: bold; color:turquoise">This page is not maintained any more. We really seek for help. Feel free to contribute an updated page at <a href="https://github.com/JabRef/www.jabref.org">https://github.com/JabRef/www.jabref.org</a></p>
+
       <h2 id="exttools">External tools</h2>
 
       <h3 id="OOtool">Export-Filter Editor</h3>

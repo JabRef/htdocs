@@ -1,1 +1,4 @@
-<?php header("Location: http://www.jabref.org/", true, 301); ?>
+<?php
+  header("Location: http://www.jabref.org/", true, 301);
+  die();
+?>

@@ -1,4 +1,4 @@
 <?php
-  header("Location: https://help.jabref.org/fr/About", true, 301);
+  header("Location: https://help.jabref.org/fr/", true, 301);
   die();
 ?>

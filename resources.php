@@ -139,39 +139,6 @@
       are distributed with JabRef as standard export filters.</i></p>
 
 
-      <h3 id="Martens_filters">Marten Kooiker's RTF export filters</h3>
-      <p>Marten Kooiker has put together a number of export filters outputting
-      RTF references formatted for specific journals.</p>
-      <p><a href="exportfilters/Marten_Kooiker_export_filters_v1.0a.zip">Download Marten Kooiker's RTF export filters (v1.0a)</a></p>
-
-      <h3 id="RIS_export">RIS export format</h3>
-      <p><em>by Morten O. Alver</em></p>
-
-      <p>Version 1.0<br />
-      <a href="plugins/net.sf.jabref.export.RISExport-1.0.jar">Plugin</a> -
-      <a href="plugins/RISExport-1.0-src.zip">Source code</a></p>
-
-      <p>This plugin provides RIS export format functionality.</p>
-
-
-      <h3 id="Chicago_Manual">Chicago Manual of Style export filters</h3>
-      <p><em>by Juan Jose Baldrich</em></p>
-
-      <a href="plugins/net.sf.jabref.export.Chicago(English)-1.2.jar">Plugin (English)</a> -
-      <a href="plugins/net.sf.jabref.export.Chicago(Espanol)-1.2.jar">Plugin (Espa&ntilde;ol)</a>
-
-      <p>Export filters for preparation of bibliographies according to the Chicago Manual of Style.
-      <a href="plugins/Chicago_export_filters.pdf">More information</a></p>
-
-
-      <h3 id="Turabian">Turabian export filters</h3>
-      <p><em>by Juan Jose Baldrich</em></p>
-
-      <a href="plugins/net.sf.jabref.export.Turabian(English)-1.2.jar">Plugin (English)</a> -
-      <a href="plugins/net.sf.jabref.export.Turabian(Espanol)-1.2.jar">Plugin (Espa&ntilde;ol)</a>
-
-      <p>Export filters for preparation of bibliographies according to the Turabian style.</p>
-
 
       <h2 id="endnote_filters">Endnote filter set</h2>
 
